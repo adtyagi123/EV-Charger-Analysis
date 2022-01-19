@@ -1,6 +1,6 @@
 # Web App for EV Data analysis using Streamlit and Heroku
 
-The deployed web application: https://penguins-st-trial.herokuapp.com/
+The deployed web application: https://evcharger-app.herokuapp.com/
 
 This web app does the following:
 Lets the user select the category of EV data analysis, vehicle type and region

@@ -8,13 +8,16 @@ import plotly.express as px
 
 #Creating single source data for the app
 #Reference: https://www.iea.org/articles/global-ev-data-explorer
-os.chdir(os.path.dirname(__file__) + r"\Data")
-all_filenames = [i for i in glob.glob('*.{}'.format('csv'))]
-df = pd.concat(map(pd.read_csv, all_filenames))
-df = df.drop(columns = 'unit')
-df.to_csv(os.getcwd() +'\\CompiledData.csv')
-df = df.replace('USA', 'United States')
 
+#Snippet to clean data and add to CompiledData.csv
+# os.chdir(os.path.dirname(__file__) + r"\Data")
+# all_filenames = [i for i in glob.glob('*.{}'.format('csv'))]
+# df = pd.concat(map(pd.read_csv, all_filenames))
+# df = df.drop(columns = 'unit')
+# df = df.replace('USA', 'United States')
+# df.to_csv('CompiledData.csv')
+
+df = pd.read_csv('CompiledData.csv')
 #Adding country Iso code for region
 def findCountry (country_name):
     try:
