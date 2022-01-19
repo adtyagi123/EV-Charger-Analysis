@@ -1,0 +1,465 @@
+region,category,parameter,mode,powertrain,year,unit,value
+Australia,Historical,EV chargers,,Publicly available fast,2017,,40
+Australia,Historical,EV chargers,,Publicly available slow,2017,,436
+Australia,Historical,EV chargers,,Publicly available fast,2018,,61.09400177001953
+Australia,Historical,EV chargers,,Publicly available slow,2018,,665.9229736328125
+Australia,Historical,EV chargers,,Publicly available fast,2019,,251
+Australia,Historical,EV chargers,,Publicly available slow,2019,,1679
+Australia,Historical,EV chargers,,Publicly available fast,2020,,350
+Australia,Historical,EV chargers,,Publicly available slow,2020,,1950
+Belgium,Historical,EV chargers,,Publicly available fast,2013,,47
+Belgium,Historical,EV chargers,,Publicly available slow,2013,,331
+Belgium,Historical,EV chargers,,Publicly available fast,2014,,55
+Belgium,Historical,EV chargers,,Publicly available slow,2014,,559
+Belgium,Historical,EV chargers,,Publicly available fast,2015,,77
+Belgium,Historical,EV chargers,,Publicly available slow,2015,,1335
+Belgium,Historical,EV chargers,,Publicly available fast,2016,,110
+Belgium,Historical,EV chargers,,Publicly available slow,2016,,1485
+Belgium,Historical,EV chargers,,Publicly available fast,2017,,222
+Belgium,Historical,EV chargers,,Publicly available slow,2017,,1493
+Belgium,Historical,EV chargers,,Publicly available fast,2018,,242
+Belgium,Historical,EV chargers,,Publicly available slow,2018,,2716
+Belgium,Historical,EV chargers,,Publicly available fast,2019,,359
+Belgium,Historical,EV chargers,,Publicly available slow,2019,,6070
+Belgium,Historical,EV chargers,,Publicly available fast,2020,,476
+Belgium,Historical,EV chargers,,Publicly available slow,2020,,8006
+Canada,Historical,EV chargers,,Publicly available fast,2012,,2
+Canada,Historical,EV chargers,,Publicly available slow,2012,,722
+Canada,Historical,EV chargers,,Publicly available fast,2013,,7
+Canada,Historical,EV chargers,,Publicly available slow,2013,,1172
+Canada,Historical,EV chargers,,Publicly available fast,2014,,55
+Canada,Historical,EV chargers,,Publicly available slow,2014,,2266
+Canada,Historical,EV chargers,,Publicly available fast,2015,,63
+Canada,Historical,EV chargers,,Publicly available slow,2015,,3361
+Canada,Historical,EV chargers,,Publicly available fast,2016,,135
+Canada,Historical,EV chargers,,Publicly available slow,2016,,3900
+Canada,Historical,EV chargers,,Publicly available fast,2017,,673
+Canada,Historical,EV chargers,,Publicly available slow,2017,,5168
+Canada,Historical,EV chargers,,Publicly available fast,2018,,840
+Canada,Historical,EV chargers,,Publicly available slow,2018,,7100
+Canada,Historical,EV chargers,,Publicly available fast,2019,,975
+Canada,Historical,EV chargers,,Publicly available slow,2019,,7976.14013671875
+Canada,Historical,EV chargers,,Publicly available fast,2020,,2258
+Canada,Historical,EV chargers,,Publicly available slow,2020,,10936
+Chile,Historical,EV chargers,,Publicly available fast,2011,,1
+Chile,Historical,EV chargers,,Publicly available slow,2011,,1
+Chile,Historical,EV chargers,,Publicly available fast,2012,,4
+Chile,Historical,EV chargers,,Publicly available slow,2012,,6
+Chile,Historical,EV chargers,,Publicly available fast,2013,,5
+Chile,Historical,EV chargers,,Publicly available slow,2013,,8
+Chile,Historical,EV chargers,,Publicly available fast,2014,,5
+Chile,Historical,EV chargers,,Publicly available slow,2014,,13
+Chile,Historical,EV chargers,,Publicly available fast,2015,,5
+Chile,Historical,EV chargers,,Publicly available slow,2015,,22
+Chile,Historical,EV chargers,,Publicly available fast,2016,,5
+Chile,Historical,EV chargers,,Publicly available slow,2016,,22
+Chile,Historical,EV chargers,,Publicly available fast,2017,,6
+Chile,Historical,EV chargers,,Publicly available slow,2017,,35
+Chile,Historical,EV chargers,,Publicly available fast,2018,,8
+Chile,Historical,EV chargers,,Publicly available slow,2018,,61
+Chile,Historical,EV chargers,,Publicly available fast,2019,,42
+Chile,Historical,EV chargers,,Publicly available slow,2019,,128
+Chile,Historical,EV chargers,,Publicly available fast,2020,,84
+Chile,Historical,EV chargers,,Publicly available slow,2020,,268
+China,Historical,EV chargers,,Publicly available fast,2014,,9000
+China,Historical,EV chargers,,Publicly available slow,2014,,21000
+China,Historical,EV chargers,,Publicly available fast,2015,,12101
+China,Historical,EV chargers,,Publicly available slow,2015,,46657
+China,Historical,EV chargers,,Publicly available fast,2016,,54889.33203125
+China,Historical,EV chargers,,Publicly available slow,2016,,86364.6640625
+China,Historical,EV chargers,,Publicly available fast,2017,,83394.6640625
+China,Historical,EV chargers,,Publicly available slow,2017,,130508.3359375
+China,Historical,EV chargers,,Publicly available fast,2018,,111333.3359375
+China,Historical,EV chargers,,Publicly available slow,2018,,163666.671875
+China,Historical,EV chargers,,Publicly available fast,2019,,214670
+China,Historical,EV chargers,,Publicly available slow,2019,,301238
+China,Historical,EV chargers,,Publicly available fast,2020,,309000
+China,Historical,EV chargers,,Publicly available slow,2020,,498000
+Denmark,Historical,EV chargers,,Publicly available fast,2012,,3
+Denmark,Historical,EV chargers,,Publicly available slow,2012,,449
+Denmark,Historical,EV chargers,,Publicly available fast,2013,,56
+Denmark,Historical,EV chargers,,Publicly available slow,2013,,496
+Denmark,Historical,EV chargers,,Publicly available fast,2014,,117
+Denmark,Historical,EV chargers,,Publicly available slow,2014,,813
+Denmark,Historical,EV chargers,,Publicly available fast,2015,,271
+Denmark,Historical,EV chargers,,Publicly available slow,2015,,1043
+Denmark,Historical,EV chargers,,Publicly available fast,2016,,314
+Denmark,Historical,EV chargers,,Publicly available slow,2016,,2114
+Denmark,Historical,EV chargers,,Publicly available fast,2017,,370
+Denmark,Historical,EV chargers,,Publicly available slow,2017,,2114
+Denmark,Historical,EV chargers,,Publicly available fast,2018,,387
+Denmark,Historical,EV chargers,,Publicly available slow,2018,,2170
+Denmark,Historical,EV chargers,,Publicly available fast,2019,,449
+Denmark,Historical,EV chargers,,Publicly available slow,2019,,2244
+Denmark,Historical,EV chargers,,Publicly available fast,2020,,555
+Denmark,Historical,EV chargers,,Publicly available slow,2020,,2699
+Europe,Historical,EV chargers,,Publicly available slow,2010,,3200
+Europe,Historical,EV chargers,,Publicly available fast,2011,,31
+Europe,Historical,EV chargers,,Publicly available slow,2011,,6129
+Europe,Historical,EV chargers,,Publicly available fast,2012,,350
+Europe,Historical,EV chargers,,Publicly available slow,2012,,17134
+Europe,Historical,EV chargers,,Publicly available fast,2013,,2020
+Europe,Historical,EV chargers,,Publicly available slow,2013,,27643
+Europe,Historical,EV chargers,,Publicly available fast,2014,,2832.7919921875
+Europe,Historical,EV chargers,,Publicly available slow,2014,,38665.79296875
+Europe,Historical,EV chargers,,Publicly available fast,2015,,5591
+Europe,Historical,EV chargers,,Publicly available slow,2015,,61290
+Europe,Historical,EV chargers,,Publicly available fast,2016,,9330
+Europe,Historical,EV chargers,,Publicly available slow,2016,,112583
+Europe,Historical,EV chargers,,Publicly available fast,2017,,11028
+Europe,Historical,EV chargers,,Publicly available slow,2017,,122306
+Europe,Historical,EV chargers,,Publicly available fast,2018,,15757
+Europe,Historical,EV chargers,,Publicly available slow,2018,,136361
+Europe,Historical,EV chargers,,Publicly available fast,2019,,24714
+Europe,Historical,EV chargers,,Publicly available slow,2019,,187254
+Europe,Historical,EV chargers,,Publicly available fast,2020,,38262
+Europe,Historical,EV chargers,,Publicly available slow,2020,,247798
+Finland,Historical,EV chargers,,Publicly available fast,2013,,17
+Finland,Historical,EV chargers,,Publicly available slow,2013,,250
+Finland,Historical,EV chargers,,Publicly available fast,2014,,26
+Finland,Historical,EV chargers,,Publicly available slow,2014,,357
+Finland,Historical,EV chargers,,Publicly available fast,2015,,130
+Finland,Historical,EV chargers,,Publicly available slow,2015,,706
+Finland,Historical,EV chargers,,Publicly available fast,2016,,141
+Finland,Historical,EV chargers,,Publicly available slow,2016,,706
+Finland,Historical,EV chargers,,Publicly available fast,2017,,141
+Finland,Historical,EV chargers,,Publicly available slow,2017,,706
+Finland,Historical,EV chargers,,Publicly available fast,2018,,225
+Finland,Historical,EV chargers,,Publicly available slow,2018,,706
+Finland,Historical,EV chargers,,Publicly available fast,2019,,338
+Finland,Historical,EV chargers,,Publicly available slow,2019,,1786
+Finland,Historical,EV chargers,,Publicly available fast,2020,,390
+Finland,Historical,EV chargers,,Publicly available slow,2020,,3870
+France,Historical,EV chargers,,Publicly available fast,2012,,9
+France,Historical,EV chargers,,Publicly available slow,2012,,800
+France,Historical,EV chargers,,Publicly available fast,2013,,102
+France,Historical,EV chargers,,Publicly available slow,2013,,1700
+France,Historical,EV chargers,,Publicly available fast,2014,,114
+France,Historical,EV chargers,,Publicly available slow,2014,,1700
+France,Historical,EV chargers,,Publicly available fast,2015,,580
+France,Historical,EV chargers,,Publicly available slow,2015,,9865
+France,Historical,EV chargers,,Publicly available fast,2016,,998
+France,Historical,EV chargers,,Publicly available slow,2016,,18620
+France,Historical,EV chargers,,Publicly available fast,2017,,1031
+France,Historical,EV chargers,,Publicly available slow,2017,,20153
+France,Historical,EV chargers,,Publicly available fast,2018,,1713
+France,Historical,EV chargers,,Publicly available slow,2018,,22569
+France,Historical,EV chargers,,Publicly available fast,2019,,2040
+France,Historical,EV chargers,,Publicly available slow,2019,,27661
+France,Historical,EV chargers,,Publicly available fast,2020,,4045
+France,Historical,EV chargers,,Publicly available slow,2020,,42000
+Germany,Historical,EV chargers,,Publicly available fast,2012,,18
+Germany,Historical,EV chargers,,Publicly available slow,2012,,1500
+Germany,Historical,EV chargers,,Publicly available fast,2013,,47
+Germany,Historical,EV chargers,,Publicly available slow,2013,,2400
+Germany,Historical,EV chargers,,Publicly available fast,2014,,116
+Germany,Historical,EV chargers,,Publicly available slow,2014,,2606
+Germany,Historical,EV chargers,,Publicly available fast,2015,,471
+Germany,Historical,EV chargers,,Publicly available slow,2015,,4587
+Germany,Historical,EV chargers,,Publicly available fast,2016,,1688
+Germany,Historical,EV chargers,,Publicly available slow,2016,,22213
+Germany,Historical,EV chargers,,Publicly available fast,2017,,1801
+Germany,Historical,EV chargers,,Publicly available slow,2017,,22213
+Germany,Historical,EV chargers,,Publicly available fast,2018,,3352
+Germany,Historical,EV chargers,,Publicly available slow,2018,,23112
+Germany,Historical,EV chargers,,Publicly available fast,2019,,5088
+Germany,Historical,EV chargers,,Publicly available slow,2019,,34203
+Germany,Historical,EV chargers,,Publicly available fast,2020,,7456
+Germany,Historical,EV chargers,,Publicly available slow,2020,,37213
+Iceland,Historical,EV chargers,,Publicly available fast,2014,,6
+Iceland,Historical,EV chargers,,Publicly available fast,2015,,11
+Iceland,Historical,EV chargers,,Publicly available slow,2015,,11
+Iceland,Historical,EV chargers,,Publicly available fast,2016,,40
+Iceland,Historical,EV chargers,,Publicly available slow,2016,,11
+Iceland,Historical,EV chargers,,Publicly available fast,2017,,36
+Iceland,Historical,EV chargers,,Publicly available slow,2017,,32
+Iceland,Historical,EV chargers,,Publicly available fast,2018,,55
+Iceland,Historical,EV chargers,,Publicly available slow,2018,,40
+Iceland,Historical,EV chargers,,Publicly available fast,2019,,152
+Iceland,Historical,EV chargers,,Publicly available slow,2019,,110
+Iceland,Historical,EV chargers,,Publicly available fast,2020,,190
+Iceland,Historical,EV chargers,,Publicly available slow,2020,,288
+Italy,Historical,EV chargers,,Publicly available fast,2012,,1
+Italy,Historical,EV chargers,,Publicly available slow,2012,,1350
+Italy,Historical,EV chargers,,Publicly available fast,2013,,6
+Italy,Historical,EV chargers,,Publicly available slow,2013,,1350
+Italy,Historical,EV chargers,,Publicly available fast,2014,,10
+Italy,Historical,EV chargers,,Publicly available slow,2014,,1350
+Italy,Historical,EV chargers,,Publicly available fast,2015,,70
+Italy,Historical,EV chargers,,Publicly available slow,2015,,1679
+Italy,Historical,EV chargers,,Publicly available fast,2016,,166
+Italy,Historical,EV chargers,,Publicly available slow,2016,,2298
+Italy,Historical,EV chargers,,Publicly available fast,2017,,393
+Italy,Historical,EV chargers,,Publicly available slow,2017,,2424
+Italy,Historical,EV chargers,,Publicly available fast,2018,,573
+Italy,Historical,EV chargers,,Publicly available slow,2018,,2860
+Italy,Historical,EV chargers,,Publicly available fast,2019,,864
+Italy,Historical,EV chargers,,Publicly available slow,2019,,8312
+Italy,Historical,EV chargers,,Publicly available fast,2020,,1231
+Italy,Historical,EV chargers,,Publicly available slow,2020,,12150
+Japan,Historical,EV chargers,,Publicly available fast,2010,,312
+Japan,Historical,EV chargers,,Publicly available fast,2011,,801
+Japan,Historical,EV chargers,,Publicly available fast,2012,,1381
+Japan,Historical,EV chargers,,Publicly available fast,2013,,1794
+Japan,Historical,EV chargers,,Publicly available fast,2014,,2871
+Japan,Historical,EV chargers,,Publicly available slow,2014,,8640
+Japan,Historical,EV chargers,,Publicly available fast,2015,,5971
+Japan,Historical,EV chargers,,Publicly available slow,2015,,16120
+Japan,Historical,EV chargers,,Publicly available fast,2016,,7061
+Japan,Historical,EV chargers,,Publicly available slow,2016,,17260
+Japan,Historical,EV chargers,,Publicly available fast,2017,,7255
+Japan,Historical,EV chargers,,Publicly available slow,2017,,21507
+Japan,Historical,EV chargers,,Publicly available fast,2018,,7684
+Japan,Historical,EV chargers,,Publicly available slow,2018,,22287
+Japan,Historical,EV chargers,,Publicly available fast,2019,,7858
+Japan,Historical,EV chargers,,Publicly available slow,2019,,22536
+Japan,Historical,EV chargers,,Publicly available fast,2020,,7939
+Japan,Historical,EV chargers,,Publicly available slow,2020,,21916
+Korea,Historical,EV chargers,,Publicly available fast,2011,,33
+Korea,Historical,EV chargers,,Publicly available slow,2011,,321
+Korea,Historical,EV chargers,,Publicly available fast,2012,,118
+Korea,Historical,EV chargers,,Publicly available slow,2012,,640
+Korea,Historical,EV chargers,,Publicly available fast,2013,,177
+Korea,Historical,EV chargers,,Publicly available slow,2013,,833
+Korea,Historical,EV chargers,,Publicly available fast,2014,,237
+Korea,Historical,EV chargers,,Publicly available slow,2014,,1170
+Korea,Historical,EV chargers,,Publicly available fast,2015,,341
+Korea,Historical,EV chargers,,Publicly available slow,2015,,1095
+Korea,Historical,EV chargers,,Publicly available fast,2016,,919
+Korea,Historical,EV chargers,,Publicly available slow,2016,,1095
+Korea,Historical,EV chargers,,Publicly available fast,2017,,3343
+Korea,Historical,EV chargers,,Publicly available slow,2017,,10333
+Korea,Historical,EV chargers,,Publicly available fast,2018,,5213
+Korea,Historical,EV chargers,,Publicly available slow,2018,,22139
+Korea,Historical,EV chargers,,Publicly available fast,2019,,7396
+Korea,Historical,EV chargers,,Publicly available slow,2019,,37396
+Korea,Historical,EV chargers,,Publicly available fast,2020,,9805
+Korea,Historical,EV chargers,,Publicly available slow,2020,,54383
+Mexico,Historical,EV chargers,,Publicly available slow,2017,,1486
+Mexico,Historical,EV chargers,,Publicly available slow,2018,,1486
+Mexico,Historical,EV chargers,,Publicly available slow,2019,,1820.1800537109375
+Mexico,Historical,EV chargers,,Publicly available slow,2020,,2154.361083984375
+Netherlands,Historical,EV chargers,,Publicly available slow,2010,,400
+Netherlands,Historical,EV chargers,,Publicly available slow,2011,,400
+Netherlands,Historical,EV chargers,,Publicly available fast,2012,,21
+Netherlands,Historical,EV chargers,,Publicly available slow,2012,,2782
+Netherlands,Historical,EV chargers,,Publicly available fast,2013,,21
+Netherlands,Historical,EV chargers,,Publicly available slow,2013,,5770
+Netherlands,Historical,EV chargers,,Publicly available fast,2014,,121
+Netherlands,Historical,EV chargers,,Publicly available slow,2014,,11860
+Netherlands,Historical,EV chargers,,Publicly available fast,2015,,222
+Netherlands,Historical,EV chargers,,Publicly available slow,2015,,17786
+Netherlands,Historical,EV chargers,,Publicly available fast,2016,,404
+Netherlands,Historical,EV chargers,,Publicly available slow,2016,,32120
+Netherlands,Historical,EV chargers,,Publicly available fast,2017,,407
+Netherlands,Historical,EV chargers,,Publicly available slow,2017,,32875
+Netherlands,Historical,EV chargers,,Publicly available fast,2018,,819
+Netherlands,Historical,EV chargers,,Publicly available slow,2018,,36010
+Netherlands,Historical,EV chargers,,Publicly available fast,2019,,829
+Netherlands,Historical,EV chargers,,Publicly available slow,2019,,49324
+Netherlands,Historical,EV chargers,,Publicly available fast,2020,,2047
+Netherlands,Historical,EV chargers,,Publicly available slow,2020,,63586
+New Zealand,Historical,EV chargers,,Publicly available fast,2017,,104
+New Zealand,Historical,EV chargers,,Publicly available fast,2018,,204
+New Zealand,Historical,EV chargers,,Publicly available slow,2018,,89
+New Zealand,Historical,EV chargers,,Publicly available fast,2019,,258
+New Zealand,Historical,EV chargers,,Publicly available slow,2019,,131
+New Zealand,Historical,EV chargers,,Publicly available fast,2020,,312
+New Zealand,Historical,EV chargers,,Publicly available slow,2020,,146
+Norway,Historical,EV chargers,,Publicly available slow,2010,,2800
+Norway,Historical,EV chargers,,Publicly available fast,2011,,18
+Norway,Historical,EV chargers,,Publicly available slow,2011,,3105
+Norway,Historical,EV chargers,,Publicly available fast,2012,,58
+Norway,Historical,EV chargers,,Publicly available slow,2012,,3688
+Norway,Historical,EV chargers,,Publicly available fast,2013,,96
+Norway,Historical,EV chargers,,Publicly available slow,2013,,4511
+Norway,Historical,EV chargers,,Publicly available fast,2014,,108
+Norway,Historical,EV chargers,,Publicly available slow,2014,,5185
+Norway,Historical,EV chargers,,Publicly available fast,2015,,328
+Norway,Historical,EV chargers,,Publicly available slow,2015,,5185
+Norway,Historical,EV chargers,,Publicly available fast,2016,,501
+Norway,Historical,EV chargers,,Publicly available slow,2016,,7040
+Norway,Historical,EV chargers,,Publicly available fast,2017,,917
+Norway,Historical,EV chargers,,Publicly available slow,2017,,8292
+Norway,Historical,EV chargers,,Publicly available fast,2018,,1226
+Norway,Historical,EV chargers,,Publicly available slow,2018,,9333
+Norway,Historical,EV chargers,,Publicly available fast,2019,,3970
+Norway,Historical,EV chargers,,Publicly available slow,2019,,10337
+Norway,Historical,EV chargers,,Publicly available fast,2020,,5299
+Norway,Historical,EV chargers,,Publicly available slow,2020,,11677
+Other Europe,Historical,EV chargers,,Publicly available fast,2011,,7
+Other Europe,Historical,EV chargers,,Publicly available slow,2011,,49
+Other Europe,Historical,EV chargers,,Publicly available fast,2012,,188
+Other Europe,Historical,EV chargers,,Publicly available slow,2012,,1341
+Other Europe,Historical,EV chargers,,Publicly available fast,2013,,237
+Other Europe,Historical,EV chargers,,Publicly available slow,2013,,1842
+Other Europe,Historical,EV chargers,,Publicly available fast,2014,,342
+Other Europe,Historical,EV chargers,,Publicly available slow,2014,,2596
+Other Europe,Historical,EV chargers,,Publicly available fast,2015,,634
+Other Europe,Historical,EV chargers,,Publicly available slow,2015,,3363
+Other Europe,Historical,EV chargers,,Publicly available fast,2016,,885
+Other Europe,Historical,EV chargers,,Publicly available slow,2016,,4426
+Other Europe,Historical,EV chargers,,Publicly available fast,2017,,1378
+Other Europe,Historical,EV chargers,,Publicly available slow,2017,,6732
+Other Europe,Historical,EV chargers,,Publicly available fast,2018,,1836
+Other Europe,Historical,EV chargers,,Publicly available slow,2018,,7954
+Other Europe,Historical,EV chargers,,Publicly available fast,2019,,2404
+Other Europe,Historical,EV chargers,,Publicly available slow,2019,,8767
+Other Europe,Historical,EV chargers,,Publicly available fast,2020,,4095
+Other Europe,Historical,EV chargers,,Publicly available slow,2020,,14347
+Poland,Historical,EV chargers,,Publicly available fast,2014,,4
+Poland,Historical,EV chargers,,Publicly available slow,2014,,115
+Poland,Historical,EV chargers,,Publicly available fast,2015,,8
+Poland,Historical,EV chargers,,Publicly available slow,2015,,290
+Poland,Historical,EV chargers,,Publicly available fast,2016,,32
+Poland,Historical,EV chargers,,Publicly available slow,2016,,290
+Poland,Historical,EV chargers,,Publicly available fast,2017,,113
+Poland,Historical,EV chargers,,Publicly available slow,2017,,410
+Poland,Historical,EV chargers,,Publicly available fast,2018,,281
+Poland,Historical,EV chargers,,Publicly available slow,2018,,488
+Poland,Historical,EV chargers,,Publicly available fast,2019,,308
+Poland,Historical,EV chargers,,Publicly available slow,2019,,529
+Poland,Historical,EV chargers,,Publicly available fast,2020,,677
+Poland,Historical,EV chargers,,Publicly available slow,2020,,781
+Portugal,Historical,EV chargers,,Publicly available fast,2011,,6
+Portugal,Historical,EV chargers,,Publicly available slow,2011,,1072
+Portugal,Historical,EV chargers,,Publicly available fast,2012,,7
+Portugal,Historical,EV chargers,,Publicly available slow,2012,,1120
+Portugal,Historical,EV chargers,,Publicly available fast,2013,,17
+Portugal,Historical,EV chargers,,Publicly available slow,2013,,1158
+Portugal,Historical,EV chargers,,Publicly available fast,2014,,17
+Portugal,Historical,EV chargers,,Publicly available slow,2014,,1178
+Portugal,Historical,EV chargers,,Publicly available fast,2015,,22
+Portugal,Historical,EV chargers,,Publicly available slow,2015,,1238
+Portugal,Historical,EV chargers,,Publicly available fast,2016,,41
+Portugal,Historical,EV chargers,,Publicly available slow,2016,,1254
+Portugal,Historical,EV chargers,,Publicly available fast,2017,,153
+Portugal,Historical,EV chargers,,Publicly available slow,2017,,1452
+Portugal,Historical,EV chargers,,Publicly available fast,2018,,184
+Portugal,Historical,EV chargers,,Publicly available slow,2018,,1602
+Portugal,Historical,EV chargers,,Publicly available fast,2019,,359
+Portugal,Historical,EV chargers,,Publicly available slow,2019,,1602
+Portugal,Historical,EV chargers,,Publicly available fast,2020,,647
+Portugal,Historical,EV chargers,,Publicly available slow,2020,,2154
+South Africa,Historical,EV chargers,,Publicly available fast,2017,,37
+South Africa,Historical,EV chargers,,Publicly available slow,2017,,87
+South Africa,Historical,EV chargers,,Publicly available fast,2018,,81
+South Africa,Historical,EV chargers,,Publicly available slow,2018,,158
+South Africa,Historical,EV chargers,,Publicly available fast,2019,,133
+South Africa,Historical,EV chargers,,Publicly available slow,2019,,112
+South Africa,Historical,EV chargers,,Publicly available fast,2020,,163
+South Africa,Historical,EV chargers,,Publicly available slow,2020,,142
+Spain,Historical,EV chargers,,Publicly available slow,2012,,400
+Spain,Historical,EV chargers,,Publicly available fast,2013,,91
+Spain,Historical,EV chargers,,Publicly available slow,2013,,800
+Spain,Historical,EV chargers,,Publicly available fast,2014,,109
+Spain,Historical,EV chargers,,Publicly available slow,2014,,800
+Spain,Historical,EV chargers,,Publicly available fast,2015,,243
+Spain,Historical,EV chargers,,Publicly available slow,2015,,1378
+Spain,Historical,EV chargers,,Publicly available fast,2016,,232
+Spain,Historical,EV chargers,,Publicly available slow,2016,,3312
+Spain,Historical,EV chargers,,Publicly available fast,2017,,596
+Spain,Historical,EV chargers,,Publicly available slow,2017,,4312
+Spain,Historical,EV chargers,,Publicly available fast,2018,,618
+Spain,Historical,EV chargers,,Publicly available slow,2018,,4410
+Spain,Historical,EV chargers,,Publicly available fast,2019,,1003
+Spain,Historical,EV chargers,,Publicly available slow,2019,,4500
+Spain,Historical,EV chargers,,Publicly available fast,2020,,2120
+Spain,Historical,EV chargers,,Publicly available slow,2020,,6045
+Sweden,Historical,EV chargers,,Publicly available fast,2012,,5
+Sweden,Historical,EV chargers,,Publicly available slow,2012,,500
+Sweden,Historical,EV chargers,,Publicly available fast,2013,,1000
+Sweden,Historical,EV chargers,,Publicly available slow,2013,,1000
+Sweden,Historical,EV chargers,,Publicly available fast,2014,,1064.7919921875
+Sweden,Historical,EV chargers,,Publicly available slow,2014,,1064.7919921875
+Sweden,Historical,EV chargers,,Publicly available fast,2015,,1251
+Sweden,Historical,EV chargers,,Publicly available slow,2015,,1251
+Sweden,Historical,EV chargers,,Publicly available fast,2016,,1737
+Sweden,Historical,EV chargers,,Publicly available slow,2016,,1737
+Sweden,Historical,EV chargers,,Publicly available fast,2017,,788
+Sweden,Historical,EV chargers,,Publicly available slow,2017,,2576
+Sweden,Historical,EV chargers,,Publicly available fast,2018,,902
+Sweden,Historical,EV chargers,,Publicly available slow,2018,,3237
+Sweden,Historical,EV chargers,,Publicly available fast,2019,,1030
+Sweden,Historical,EV chargers,,Publicly available slow,2019,,4036
+Sweden,Historical,EV chargers,,Publicly available fast,2020,,1608
+Sweden,Historical,EV chargers,,Publicly available slow,2020,,8804
+Switzerland,Historical,EV chargers,,Publicly available fast,2012,,4
+Switzerland,Historical,EV chargers,,Publicly available slow,2012,,400
+Switzerland,Historical,EV chargers,,Publicly available fast,2013,,27
+Switzerland,Historical,EV chargers,,Publicly available slow,2013,,600
+Switzerland,Historical,EV chargers,,Publicly available fast,2014,,99
+Switzerland,Historical,EV chargers,,Publicly available slow,2014,,1300
+Switzerland,Historical,EV chargers,,Publicly available fast,2015,,207
+Switzerland,Historical,EV chargers,,Publicly available slow,2015,,3399
+Switzerland,Historical,EV chargers,,Publicly available fast,2016,,278
+Switzerland,Historical,EV chargers,,Publicly available slow,2016,,3460
+Switzerland,Historical,EV chargers,,Publicly available fast,2017,,503
+Switzerland,Historical,EV chargers,,Publicly available slow,2017,,3460
+Switzerland,Historical,EV chargers,,Publicly available fast,2018,,652
+Switzerland,Historical,EV chargers,,Publicly available slow,2018,,4422
+Switzerland,Historical,EV chargers,,Publicly available fast,2019,,786
+Switzerland,Historical,EV chargers,,Publicly available slow,2019,,5414
+Switzerland,Historical,EV chargers,,Publicly available fast,2020,,1158
+Switzerland,Historical,EV chargers,,Publicly available slow,2020,,6676
+Thailand,Historical,EV chargers,,Publicly available fast,2017,,8
+Thailand,Historical,EV chargers,,Publicly available slow,2017,,88
+Thailand,Historical,EV chargers,,Publicly available fast,2018,,8
+Thailand,Historical,EV chargers,,Publicly available slow,2018,,88
+Thailand,Historical,EV chargers,,Publicly available fast,2019,,69
+Thailand,Historical,EV chargers,,Publicly available slow,2019,,748
+Thailand,Historical,EV chargers,,Publicly available fast,2020,,706
+Thailand,Historical,EV chargers,,Publicly available slow,2020,,1220
+United Kingdom,Historical,EV chargers,,Publicly available slow,2011,,1503
+United Kingdom,Historical,EV chargers,,Publicly available fast,2012,,36
+United Kingdom,Historical,EV chargers,,Publicly available slow,2012,,2804
+United Kingdom,Historical,EV chargers,,Publicly available fast,2013,,256
+United Kingdom,Historical,EV chargers,,Publicly available slow,2013,,5435
+United Kingdom,Historical,EV chargers,,Publicly available fast,2014,,524
+United Kingdom,Historical,EV chargers,,Publicly available slow,2014,,7182
+United Kingdom,Historical,EV chargers,,Publicly available fast,2015,,1066
+United Kingdom,Historical,EV chargers,,Publicly available slow,2015,,8174
+United Kingdom,Historical,EV chargers,,Publicly available fast,2016,,1763
+United Kingdom,Historical,EV chargers,,Publicly available slow,2016,,11497
+United Kingdom,Historical,EV chargers,,Publicly available fast,2017,,2179
+United Kingdom,Historical,EV chargers,,Publicly available slow,2017,,13062
+United Kingdom,Historical,EV chargers,,Publicly available fast,2018,,2692
+United Kingdom,Historical,EV chargers,,Publicly available slow,2018,,14732
+United Kingdom,Historical,EV chargers,,Publicly available fast,2019,,4735
+United Kingdom,Historical,EV chargers,,Publicly available slow,2019,,22359
+United Kingdom,Historical,EV chargers,,Publicly available fast,2020,,6248
+United Kingdom,Historical,EV chargers,,Publicly available slow,2020,,27222
+USA,Historical,EV chargers,,Publicly available fast,2015,,3524
+USA,Historical,EV chargers,,Publicly available slow,2015,,28150
+USA,Historical,EV chargers,,Publicly available fast,2016,,3079
+USA,Historical,EV chargers,,Publicly available slow,2016,,35089
+USA,Historical,EV chargers,,Publicly available fast,2017,,3436
+USA,Historical,EV chargers,,Publicly available slow,2017,,39601
+USA,Historical,EV chargers,,Publicly available fast,2018,,4242
+USA,Historical,EV chargers,,Publicly available slow,2018,,50258
+USA,Historical,EV chargers,,Publicly available fast,2019,,13093
+USA,Historical,EV chargers,,Publicly available slow,2019,,64265
+USA,Historical,EV chargers,,Publicly available fast,2020,,16718
+USA,Historical,EV chargers,,Publicly available slow,2020,,82263
+World,Historical,EV chargers,,Publicly available fast,2010,,312
+World,Historical,EV chargers,,Publicly available slow,2010,,3681.919921875
+World,Historical,EV chargers,,Publicly available fast,2011,,866
+World,Historical,EV chargers,,Publicly available slow,2011,,10354.08984375
+World,Historical,EV chargers,,Publicly available fast,2012,,1855
+World,Historical,EV chargers,,Publicly available slow,2012,,30197.419921875
+World,Historical,EV chargers,,Publicly available fast,2013,,4003
+World,Historical,EV chargers,,Publicly available slow,2013,,44646.33984375
+World,Historical,EV chargers,,Publicly available fast,2014,,15000.7900390625
+World,Historical,EV chargers,,Publicly available slow,2014,,91869.9609375
+World,Historical,EV chargers,,Publicly available fast,2015,,27596
+World,Historical,EV chargers,,Publicly available slow,2015,,156695
+World,Historical,EV chargers,,Publicly available fast,2016,,75443.328125
+World,Historical,EV chargers,,Publicly available slow,2016,,256313.703125
+World,Historical,EV chargers,,Publicly available fast,2017,,109349.703125
+World,Historical,EV chargers,,Publicly available slow,2017,,331777.3125
+World,Historical,EV chargers,,Publicly available fast,2018,,145461.296875
+World,Historical,EV chargers,,Publicly available slow,2018,,405140.6875
+World,Historical,EV chargers,,Publicly available fast,2019,,269488.90625
+World,Historical,EV chargers,,Publicly available slow,2019,,626064.375
+World,Historical,EV chargers,,Publicly available fast,2020,,385677.90625
+World,Historical,EV chargers,,Publicly available slow,2020,,922215.8125

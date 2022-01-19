@@ -1,0 +1,281 @@
+region,category,parameter,mode,powertrain,year,unit,value
+Belgium,Historical,EV sales,Vans,BEV,2010,,7
+Belgium,Historical,EV sales,Vans,BEV,2011,,25
+Belgium,Historical,EV sales,Vans,BEV,2012,,265
+Belgium,Historical,EV sales,Vans,BEV,2013,,108
+Belgium,Historical,EV sales,Vans,BEV,2014,,99
+Belgium,Historical,EV sales,Vans,BEV,2015,,68
+Belgium,Historical,EV sales,Vans,BEV,2016,,144
+Belgium,Historical,EV sales,Vans,BEV,2017,,127
+Belgium,Historical,EV sales,Vans,PHEV,2017,,1
+Belgium,Historical,EV sales,Vans,BEV,2018,,265
+Belgium,Historical,EV sales,Vans,PHEV,2018,,2
+Belgium,Historical,EV sales,Vans,BEV,2019,,418
+Belgium,Historical,EV sales,Vans,BEV,2020,,453
+Belgium,Historical,EV sales,Vans,FCEV,2020,,1
+Belgium,Historical,EV sales,Vans,PHEV,2020,,26
+Canada,Historical,EV sales,Vans,PHEV,2015,,5
+Canada,Historical,EV sales,Vans,BEV,2015,,1
+Canada,Historical,EV sales,Vans,FCEV,2015,,9
+Canada,Historical,EV sales,Vans,BEV,2020,,1575
+Canada,Historical,EV sales,Vans,FCEV,2020,,7
+Canada,Historical,EV sales,Vans,PHEV,2020,,1432
+China,Historical,EV sales,Vans,BEV,2010,,120.69100189208984
+China,Historical,EV sales,Vans,BEV,2011,,333.0260009765625
+China,Historical,EV sales,Vans,BEV,2012,,522.4580078125
+China,Historical,EV sales,Vans,BEV,2013,,550.6599731445312
+China,Historical,EV sales,Vans,BEV,2014,,718.3790283203125
+China,Historical,EV sales,Vans,BEV,2015,,12463
+China,Historical,EV sales,Vans,BEV,2016,,38400
+China,Historical,EV sales,Vans,BEV,2017,,67217
+China,Historical,EV sales,Vans,BEV,2018,,84206
+China,Historical,EV sales,Vans,BEV,2019,,42653
+China,Historical,EV sales,Vans,BEV,2020,,35247
+China,Historical,EV sales,Vans,PHEV,2020,,4000
+Denmark,Historical,EV sales,Vans,BEV,2010,,6
+Denmark,Historical,EV sales,Vans,BEV,2011,,23
+Denmark,Historical,EV sales,Vans,BEV,2012,,126
+Denmark,Historical,EV sales,Vans,BEV,2013,,104
+Denmark,Historical,EV sales,Vans,BEV,2014,,47
+Denmark,Historical,EV sales,Vans,BEV,2015,,262
+Denmark,Historical,EV sales,Vans,PHEV,2015,,85
+Denmark,Historical,EV sales,Vans,BEV,2016,,57
+Denmark,Historical,EV sales,Vans,PHEV,2016,,81
+Denmark,Historical,EV sales,Vans,BEV,2017,,70
+Denmark,Historical,EV sales,Vans,PHEV,2017,,24
+Denmark,Historical,EV sales,Vans,BEV,2018,,190
+Denmark,Historical,EV sales,Vans,PHEV,2018,,31
+Denmark,Historical,EV sales,Vans,BEV,2019,,231
+Denmark,Historical,EV sales,Vans,PHEV,2019,,34
+Denmark,Historical,EV sales,Vans,BEV,2020,,460
+Denmark,Historical,EV sales,Vans,PHEV,2020,,164
+Finland,Historical,EV sales,Vans,BEV,2017,,44
+Finland,Historical,EV sales,Vans,BEV,2018,,55
+Finland,Historical,EV sales,Vans,BEV,2019,,58
+Finland,Historical,EV sales,Vans,BEV,2020,,129
+Finland,Historical,EV sales,Vans,PHEV,2020,,39
+France,Historical,EV sales,Vans,BEV,2010,,795
+France,Historical,EV sales,Vans,BEV,2011,,1677
+France,Historical,EV sales,Vans,BEV,2012,,3645
+France,Historical,EV sales,Vans,BEV,2013,,5113
+France,Historical,EV sales,Vans,FCEV,2013,,1
+France,Historical,EV sales,Vans,BEV,2014,,4485
+France,Historical,EV sales,Vans,FCEV,2014,,4
+France,Historical,EV sales,Vans,BEV,2015,,4916
+France,Historical,EV sales,Vans,FCEV,2015,,53
+France,Historical,EV sales,Vans,PHEV,2015,,10
+France,Historical,EV sales,Vans,BEV,2016,,5546
+France,Historical,EV sales,Vans,FCEV,2016,,99
+France,Historical,EV sales,Vans,PHEV,2016,,9
+France,Historical,EV sales,Vans,BEV,2017,,6020
+France,Historical,EV sales,Vans,FCEV,2017,,25
+France,Historical,EV sales,Vans,PHEV,2017,,5
+France,Historical,EV sales,Vans,BEV,2018,,8103
+France,Historical,EV sales,Vans,FCEV,2018,,92
+France,Historical,EV sales,Vans,BEV,2019,,8000
+France,Historical,EV sales,Vans,PHEV,2019,,22
+France,Historical,EV sales,Vans,BEV,2020,,8792
+France,Historical,EV sales,Vans,FCEV,2020,,2
+Germany,Historical,EV sales,Vans,BEV,2010,,171
+Germany,Historical,EV sales,Vans,FCEV,2010,,2
+Germany,Historical,EV sales,Vans,BEV,2011,,282
+Germany,Historical,EV sales,Vans,BEV,2012,,949
+Germany,Historical,EV sales,Vans,BEV,2013,,595
+Germany,Historical,EV sales,Vans,PHEV,2013,,2
+Germany,Historical,EV sales,Vans,BEV,2014,,716
+Germany,Historical,EV sales,Vans,BEV,2015,,1013
+Germany,Historical,EV sales,Vans,PHEV,2015,,2
+Germany,Historical,EV sales,Vans,BEV,2016,,2445
+Germany,Historical,EV sales,Vans,BEV,2017,,4471
+Germany,Historical,EV sales,Vans,BEV,2018,,5294
+Germany,Historical,EV sales,Vans,BEV,2019,,5192
+Germany,Historical,EV sales,Vans,BEV,2020,,8955
+Germany,Historical,EV sales,Vans,FCEV,2020,,3
+Germany,Historical,EV sales,Vans,PHEV,2020,,180
+Greece,Historical,EV sales,Vans,BEV,2018,,13
+Greece,Historical,EV sales,Vans,BEV,2019,,11
+Greece,Historical,EV sales,Vans,BEV,2020,,14
+Iceland,Historical,EV sales,Vans,BEV,2014,,8
+Iceland,Historical,EV sales,Vans,BEV,2015,,9
+Iceland,Historical,EV sales,Vans,BEV,2016,,20
+Iceland,Historical,EV sales,Vans,BEV,2017,,29
+Iceland,Historical,EV sales,Vans,BEV,2018,,47
+Iceland,Historical,EV sales,Vans,BEV,2019,,56
+Iceland,Historical,EV sales,Vans,PHEV,2019,,8
+Iceland,Historical,EV sales,Vans,BEV,2020,,52
+Italy,Historical,EV sales,Vans,BEV,2010,,214
+Italy,Historical,EV sales,Vans,BEV,2011,,84
+Italy,Historical,EV sales,Vans,BEV,2012,,355
+Italy,Historical,EV sales,Vans,PHEV,2012,,3
+Italy,Historical,EV sales,Vans,BEV,2013,,175
+Italy,Historical,EV sales,Vans,PHEV,2013,,1
+Italy,Historical,EV sales,Vans,BEV,2014,,272
+Italy,Historical,EV sales,Vans,BEV,2015,,418
+Italy,Historical,EV sales,Vans,BEV,2016,,780
+Italy,Historical,EV sales,Vans,BEV,2017,,520
+Italy,Historical,EV sales,Vans,PHEV,2017,,2
+Italy,Historical,EV sales,Vans,BEV,2018,,612
+Italy,Historical,EV sales,Vans,BEV,2019,,1018
+Italy,Historical,EV sales,Vans,BEV,2020,,1085
+Italy,Historical,EV sales,Vans,FCEV,2020,,1
+Italy,Historical,EV sales,Vans,PHEV,2020,,53
+Japan,Historical,EV sales,Vans,BEV,2011,,849
+Japan,Historical,EV sales,Vans,BEV,2012,,2487
+Japan,Historical,EV sales,Vans,BEV,2013,,2065
+Japan,Historical,EV sales,Vans,BEV,2014,,1045
+Japan,Historical,EV sales,Vans,BEV,2015,,827
+Japan,Historical,EV sales,Vans,BEV,2016,,322.30499267578125
+Japan,Historical,EV sales,Vans,BEV,2017,,325
+Japan,Historical,EV sales,Vans,BEV,2018,,278
+Japan,Historical,EV sales,Vans,BEV,2019,,521
+Japan,Historical,EV sales,Vans,BEV,2020,,1185
+Korea,Historical,EV sales,Vans,BEV,2015,,18
+Korea,Historical,EV sales,Vans,BEV,2016,,14
+Korea,Historical,EV sales,Vans,BEV,2020,,14394
+Netherlands,Historical,EV sales,Vans,BEV,2010,,39
+Netherlands,Historical,EV sales,Vans,BEV,2011,,72
+Netherlands,Historical,EV sales,Vans,BEV,2012,,336
+Netherlands,Historical,EV sales,Vans,BEV,2013,,175
+Netherlands,Historical,EV sales,Vans,BEV,2014,,589
+Netherlands,Historical,EV sales,Vans,BEV,2015,,202
+Netherlands,Historical,EV sales,Vans,BEV,2016,,168
+Netherlands,Historical,EV sales,Vans,BEV,2017,,507
+Netherlands,Historical,EV sales,Vans,FCEV,2017,,1
+Netherlands,Historical,EV sales,Vans,BEV,2018,,1012
+Netherlands,Historical,EV sales,Vans,FCEV,2018,,2
+Netherlands,Historical,EV sales,Vans,BEV,2019,,1297
+Netherlands,Historical,EV sales,Vans,BEV,2020,,1640
+Netherlands,Historical,EV sales,Vans,FCEV,2020,,12
+Netherlands,Historical,EV sales,Vans,PHEV,2020,,33
+New Zealand,Historical,EV sales,Vans,BEV,2019,,70
+New Zealand,Historical,EV sales,Vans,BEV,2020,,78
+New Zealand,Historical,EV sales,Vans,PHEV,2020,,1
+Norway,Historical,EV sales,Vans,BEV,2011,,1
+Norway,Historical,EV sales,Vans,BEV,2012,,4
+Norway,Historical,EV sales,Vans,BEV,2014,,555
+Norway,Historical,EV sales,Vans,BEV,2015,,712
+Norway,Historical,EV sales,Vans,BEV,2016,,700
+Norway,Historical,EV sales,Vans,BEV,2017,,940
+Norway,Historical,EV sales,Vans,BEV,2018,,1890
+Norway,Historical,EV sales,Vans,BEV,2019,,1908
+Norway,Historical,EV sales,Vans,BEV,2020,,2571
+Norway,Historical,EV sales,Vans,PHEV,2020,,30
+Other Europe,Historical,EV sales,Vans,BEV,2011,,15
+Other Europe,Historical,EV sales,Vans,BEV,2012,,310
+Other Europe,Historical,EV sales,Vans,BEV,2013,,234
+Other Europe,Historical,EV sales,Vans,BEV,2014,,277
+Other Europe,Historical,EV sales,Vans,BEV,2015,,289
+Other Europe,Historical,EV sales,Vans,FCEV,2015,,1
+Other Europe,Historical,EV sales,Vans,BEV,2016,,604
+Other Europe,Historical,EV sales,Vans,FCEV,2016,,1
+Other Europe,Historical,EV sales,Vans,PHEV,2016,,1
+Other Europe,Historical,EV sales,Vans,BEV,2017,,479
+Other Europe,Historical,EV sales,Vans,BEV,2018,,805
+Other Europe,Historical,EV sales,Vans,FCEV,2018,,8
+Other Europe,Historical,EV sales,Vans,BEV,2019,,1194
+Other Europe,Historical,EV sales,Vans,PHEV,2019,,3
+Other Europe,Historical,EV sales,Vans,BEV,2020,,1684
+Other Europe,Historical,EV sales,Vans,PHEV,2020,,14
+Poland,Historical,EV sales,Vans,BEV,2010,,3
+Poland,Historical,EV sales,Vans,BEV,2011,,3
+Poland,Historical,EV sales,Vans,BEV,2012,,16
+Poland,Historical,EV sales,Vans,BEV,2013,,10
+Poland,Historical,EV sales,Vans,BEV,2014,,8
+Poland,Historical,EV sales,Vans,BEV,2015,,13
+Poland,Historical,EV sales,Vans,PHEV,2015,,2
+Poland,Historical,EV sales,Vans,BEV,2016,,16
+Poland,Historical,EV sales,Vans,BEV,2017,,28
+Poland,Historical,EV sales,Vans,BEV,2018,,104
+Poland,Historical,EV sales,Vans,BEV,2019,,280
+Poland,Historical,EV sales,Vans,BEV,2020,,316
+Poland,Historical,EV sales,Vans,PHEV,2020,,5
+Portugal,Historical,EV sales,Vans,BEV,2011,,5
+Portugal,Historical,EV sales,Vans,BEV,2012,,16
+Portugal,Historical,EV sales,Vans,BEV,2013,,27
+Portugal,Historical,EV sales,Vans,BEV,2014,,24
+Portugal,Historical,EV sales,Vans,BEV,2015,,58
+Portugal,Historical,EV sales,Vans,BEV,2016,,44
+Portugal,Historical,EV sales,Vans,BEV,2017,,193
+Portugal,Historical,EV sales,Vans,BEV,2018,,253
+Portugal,Historical,EV sales,Vans,BEV,2019,,213
+Portugal,Historical,EV sales,Vans,BEV,2020,,249
+Spain,Historical,EV sales,Vans,BEV,2011,,24
+Spain,Historical,EV sales,Vans,BEV,2012,,203
+Spain,Historical,EV sales,Vans,BEV,2013,,108
+Spain,Historical,EV sales,Vans,BEV,2014,,377
+Spain,Historical,EV sales,Vans,BEV,2015,,537
+Spain,Historical,EV sales,Vans,BEV,2016,,841
+Spain,Historical,EV sales,Vans,BEV,2017,,997
+Spain,Historical,EV sales,Vans,BEV,2018,,1672
+Spain,Historical,EV sales,Vans,BEV,2019,,1559
+Spain,Historical,EV sales,Vans,BEV,2020,,1634
+Sweden,Historical,EV sales,Vans,BEV,2011,,9
+Sweden,Historical,EV sales,Vans,BEV,2012,,275
+Sweden,Historical,EV sales,Vans,BEV,2013,,213
+Sweden,Historical,EV sales,Vans,BEV,2014,,282
+Sweden,Historical,EV sales,Vans,BEV,2015,,321
+Sweden,Historical,EV sales,Vans,PHEV,2015,,7
+Sweden,Historical,EV sales,Vans,BEV,2016,,45
+Sweden,Historical,EV sales,Vans,BEV,2017,,196
+Sweden,Historical,EV sales,Vans,BEV,2018,,2465
+Sweden,Historical,EV sales,Vans,PHEV,2018,,9
+Sweden,Historical,EV sales,Vans,BEV,2019,,1380
+Sweden,Historical,EV sales,Vans,BEV,2020,,1948
+Switzerland,Historical,EV sales,Vans,BEV,2012,,125
+Switzerland,Historical,EV sales,Vans,BEV,2013,,109
+Switzerland,Historical,EV sales,Vans,BEV,2014,,52
+Switzerland,Historical,EV sales,Vans,BEV,2015,,152
+Switzerland,Historical,EV sales,Vans,FCEV,2015,,1
+Switzerland,Historical,EV sales,Vans,BEV,2016,,90
+Switzerland,Historical,EV sales,Vans,FCEV,2016,,1
+Switzerland,Historical,EV sales,Vans,BEV,2017,,185
+Switzerland,Historical,EV sales,Vans,BEV,2018,,280
+Switzerland,Historical,EV sales,Vans,FCEV,2018,,8
+Switzerland,Historical,EV sales,Vans,BEV,2019,,600
+Switzerland,Historical,EV sales,Vans,BEV,2020,,769
+Switzerland,Historical,EV sales,Vans,PHEV,2020,,9
+United Kingdom,Historical,EV sales,Vans,BEV,2010,,239
+United Kingdom,Historical,EV sales,Vans,BEV,2011,,269
+United Kingdom,Historical,EV sales,Vans,BEV,2012,,439
+United Kingdom,Historical,EV sales,Vans,BEV,2013,,317
+United Kingdom,Historical,EV sales,Vans,BEV,2014,,811
+United Kingdom,Historical,EV sales,Vans,PHEV,2014,,7
+United Kingdom,Historical,EV sales,Vans,BEV,2015,,939
+United Kingdom,Historical,EV sales,Vans,PHEV,2015,,99
+United Kingdom,Historical,EV sales,Vans,BEV,2016,,1055
+United Kingdom,Historical,EV sales,Vans,PHEV,2016,,78
+United Kingdom,Historical,EV sales,Vans,BEV,2017,,1178
+United Kingdom,Historical,EV sales,Vans,PHEV,2017,,41
+United Kingdom,Historical,EV sales,Vans,BEV,2018,,1294
+United Kingdom,Historical,EV sales,Vans,BEV,2019,,3236
+United Kingdom,Historical,EV sales,Vans,PHEV,2019,,205
+United Kingdom,Historical,EV sales,Vans,BEV,2020,,5350
+United Kingdom,Historical,EV sales,Vans,PHEV,2020,,576
+World,Historical,EV sales,Vans,BEV,2010,,1604.6910400390625
+World,Historical,EV sales,Vans,FCEV,2010,,2
+World,Historical,EV sales,Vans,BEV,2011,,3854.02587890625
+World,Historical,EV sales,Vans,BEV,2012,,10899.4599609375
+World,Historical,EV sales,Vans,PHEV,2012,,3
+World,Historical,EV sales,Vans,BEV,2013,,11017.66015625
+World,Historical,EV sales,Vans,FCEV,2013,,50
+World,Historical,EV sales,Vans,PHEV,2013,,3
+World,Historical,EV sales,Vans,BEV,2014,,11857.3798828125
+World,Historical,EV sales,Vans,FCEV,2014,,85
+World,Historical,EV sales,Vans,PHEV,2014,,21
+World,Historical,EV sales,Vans,BEV,2015,,24448
+World,Historical,EV sales,Vans,FCEV,2015,,145
+World,Historical,EV sales,Vans,PHEV,2015,,782
+World,Historical,EV sales,Vans,BEV,2016,,51413.30859375
+World,Historical,EV sales,Vans,FCEV,2016,,101
+World,Historical,EV sales,Vans,PHEV,2016,,178
+World,Historical,EV sales,Vans,BEV,2017,,83601
+World,Historical,EV sales,Vans,FCEV,2017,,26
+World,Historical,EV sales,Vans,PHEV,2017,,88
+World,Historical,EV sales,Vans,BEV,2018,,108929
+World,Historical,EV sales,Vans,FCEV,2018,,110
+World,Historical,EV sales,Vans,PHEV,2018,,42
+World,Historical,EV sales,Vans,BEV,2019,,70110
+World,Historical,EV sales,Vans,PHEV,2019,,272
+World,Historical,EV sales,Vans,BEV,2020,,88727
+World,Historical,EV sales,Vans,FCEV,2020,,26
+World,Historical,EV sales,Vans,PHEV,2020,,6562

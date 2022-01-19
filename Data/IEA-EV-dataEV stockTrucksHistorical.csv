@@ -1,0 +1,146 @@
+region,category,parameter,mode,powertrain,year,unit,value
+Belgium,Historical,EV stock,Trucks,BEV,2010,,2
+Belgium,Historical,EV stock,Trucks,BEV,2011,,6
+Belgium,Historical,EV stock,Trucks,BEV,2012,,7
+Belgium,Historical,EV stock,Trucks,BEV,2013,,7
+Belgium,Historical,EV stock,Trucks,BEV,2014,,11
+Belgium,Historical,EV stock,Trucks,BEV,2015,,12
+Belgium,Historical,EV stock,Trucks,BEV,2016,,13
+Belgium,Historical,EV stock,Trucks,BEV,2017,,14
+Belgium,Historical,EV stock,Trucks,BEV,2018,,17
+Belgium,Historical,EV stock,Trucks,BEV,2019,,17
+Belgium,Historical,EV stock,Trucks,BEV,2020,,19
+China,Historical,EV stock,Trucks,BEV,2012,,51
+China,Historical,EV stock,Trucks,BEV,2013,,363
+China,Historical,EV stock,Trucks,BEV,2014,,494
+China,Historical,EV stock,Trucks,BEV,2015,,6254
+China,Historical,EV stock,Trucks,BEV,2016,,10717
+China,Historical,EV stock,Trucks,BEV,2017,,14489
+China,Historical,EV stock,Trucks,BEV,2018,,16104
+China,Historical,EV stock,Trucks,FCEV,2018,,1334
+China,Historical,EV stock,Trucks,BEV,2019,,22057
+China,Historical,EV stock,Trucks,FCEV,2019,,3349
+China,Historical,EV stock,Trucks,PHEV,2019,,159
+China,Historical,EV stock,Trucks,BEV,2020,,28749
+China,Historical,EV stock,Trucks,FCEV,2020,,3153
+China,Historical,EV stock,Trucks,PHEV,2020,,186
+Denmark,Historical,EV stock,Trucks,BEV,2010,,9
+Denmark,Historical,EV stock,Trucks,BEV,2011,,10
+Denmark,Historical,EV stock,Trucks,BEV,2012,,10
+Denmark,Historical,EV stock,Trucks,BEV,2013,,11
+Denmark,Historical,EV stock,Trucks,BEV,2014,,11
+Denmark,Historical,EV stock,Trucks,BEV,2015,,11
+Denmark,Historical,EV stock,Trucks,BEV,2016,,8
+Denmark,Historical,EV stock,Trucks,FCEV,2016,,1
+Denmark,Historical,EV stock,Trucks,BEV,2017,,8
+Denmark,Historical,EV stock,Trucks,FCEV,2017,,1
+Denmark,Historical,EV stock,Trucks,BEV,2018,,8
+Denmark,Historical,EV stock,Trucks,FCEV,2018,,1
+Denmark,Historical,EV stock,Trucks,BEV,2019,,13
+Denmark,Historical,EV stock,Trucks,FCEV,2019,,2
+Denmark,Historical,EV stock,Trucks,BEV,2020,,28
+Denmark,Historical,EV stock,Trucks,FCEV,2020,,4
+Finland,Historical,EV stock,Trucks,BEV,2019,,2
+Finland,Historical,EV stock,Trucks,BEV,2020,,7
+France,Historical,EV stock,Trucks,BEV,2010,,90
+France,Historical,EV stock,Trucks,BEV,2011,,100
+France,Historical,EV stock,Trucks,BEV,2012,,110
+France,Historical,EV stock,Trucks,BEV,2013,,110
+France,Historical,EV stock,Trucks,BEV,2014,,120
+France,Historical,EV stock,Trucks,BEV,2015,,110
+France,Historical,EV stock,Trucks,BEV,2016,,100
+France,Historical,EV stock,Trucks,BEV,2017,,100
+France,Historical,EV stock,Trucks,PHEV,2017,,10
+France,Historical,EV stock,Trucks,BEV,2018,,100
+France,Historical,EV stock,Trucks,PHEV,2018,,20
+France,Historical,EV stock,Trucks,BEV,2019,,110
+France,Historical,EV stock,Trucks,PHEV,2019,,10
+France,Historical,EV stock,Trucks,BEV,2020,,116
+France,Historical,EV stock,Trucks,PHEV,2020,,10
+Germany,Historical,EV stock,Trucks,BEV,2018,,3
+Germany,Historical,EV stock,Trucks,BEV,2019,,249
+Germany,Historical,EV stock,Trucks,BEV,2020,,551
+Germany,Historical,EV stock,Trucks,FCEV,2020,,2
+Iceland,Historical,EV stock,Trucks,BEV,2010,,5
+Iceland,Historical,EV stock,Trucks,BEV,2011,,5
+Iceland,Historical,EV stock,Trucks,BEV,2012,,12
+Iceland,Historical,EV stock,Trucks,BEV,2013,,14
+Iceland,Historical,EV stock,Trucks,BEV,2014,,15
+Iceland,Historical,EV stock,Trucks,BEV,2015,,25
+Iceland,Historical,EV stock,Trucks,BEV,2016,,25
+Iceland,Historical,EV stock,Trucks,BEV,2017,,27
+Iceland,Historical,EV stock,Trucks,BEV,2018,,36
+Iceland,Historical,EV stock,Trucks,BEV,2019,,33
+Iceland,Historical,EV stock,Trucks,BEV,2020,,33
+Italy,Historical,EV stock,Trucks,BEV,2019,,4
+Italy,Historical,EV stock,Trucks,BEV,2020,,39
+Netherlands,Historical,EV stock,Trucks,BEV,2010,,23
+Netherlands,Historical,EV stock,Trucks,BEV,2011,,29
+Netherlands,Historical,EV stock,Trucks,BEV,2012,,57
+Netherlands,Historical,EV stock,Trucks,BEV,2013,,70
+Netherlands,Historical,EV stock,Trucks,BEV,2014,,76
+Netherlands,Historical,EV stock,Trucks,BEV,2015,,76
+Netherlands,Historical,EV stock,Trucks,BEV,2016,,93
+Netherlands,Historical,EV stock,Trucks,BEV,2017,,103
+Netherlands,Historical,EV stock,Trucks,BEV,2018,,120
+Netherlands,Historical,EV stock,Trucks,BEV,2019,,223
+Netherlands,Historical,EV stock,Trucks,BEV,2020,,209
+Netherlands,Historical,EV stock,Trucks,FCEV,2020,,9
+Netherlands,Historical,EV stock,Trucks,PHEV,2020,,31
+New Zealand,Historical,EV stock,Trucks,BEV,2019,,62
+New Zealand,Historical,EV stock,Trucks,BEV,2020,,86
+Norway,Historical,EV stock,Trucks,BEV,2017,,2
+Norway,Historical,EV stock,Trucks,BEV,2018,,2
+Norway,Historical,EV stock,Trucks,BEV,2019,,2
+Norway,Historical,EV stock,Trucks,BEV,2020,,25
+Norway,Historical,EV stock,Trucks,FCEV,2020,,4
+Norway,Historical,EV stock,Trucks,PHEV,2020,,1
+Other Europe,Historical,EV stock,Trucks,BEV,2014,,5
+Other Europe,Historical,EV stock,Trucks,BEV,2015,,5
+Other Europe,Historical,EV stock,Trucks,BEV,2016,,13
+Other Europe,Historical,EV stock,Trucks,BEV,2017,,13
+Other Europe,Historical,EV stock,Trucks,BEV,2018,,23
+Other Europe,Historical,EV stock,Trucks,BEV,2019,,27
+Other Europe,Historical,EV stock,Trucks,BEV,2020,,27
+Poland,Historical,EV stock,Trucks,BEV,2019,,21
+Poland,Historical,EV stock,Trucks,BEV,2020,,22
+Spain,Historical,EV stock,Trucks,BEV,2019,,5
+Spain,Historical,EV stock,Trucks,BEV,2020,,13
+Sweden,Historical,EV stock,Trucks,BEV,2019,,11
+Sweden,Historical,EV stock,Trucks,BEV,2020,,29
+Sweden,Historical,EV stock,Trucks,FCEV,2020,,1
+Switzerland,Historical,EV stock,Trucks,BEV,2019,,16
+Switzerland,Historical,EV stock,Trucks,FCEV,2019,,4
+Switzerland,Historical,EV stock,Trucks,BEV,2020,,23
+Switzerland,Historical,EV stock,Trucks,FCEV,2020,,12
+United Kingdom,Historical,EV stock,Trucks,BEV,2010,,133
+United Kingdom,Historical,EV stock,Trucks,BEV,2011,,138
+United Kingdom,Historical,EV stock,Trucks,BEV,2012,,146
+United Kingdom,Historical,EV stock,Trucks,BEV,2013,,146
+United Kingdom,Historical,EV stock,Trucks,BEV,2014,,152
+United Kingdom,Historical,EV stock,Trucks,BEV,2015,,423
+United Kingdom,Historical,EV stock,Trucks,BEV,2016,,432
+United Kingdom,Historical,EV stock,Trucks,BEV,2017,,432
+United Kingdom,Historical,EV stock,Trucks,BEV,2018,,432
+United Kingdom,Historical,EV stock,Trucks,BEV,2019,,373
+United Kingdom,Historical,EV stock,Trucks,BEV,2020,,351
+World,Historical,EV stock,Trucks,BEV,2010,,283
+World,Historical,EV stock,Trucks,BEV,2011,,306
+World,Historical,EV stock,Trucks,BEV,2012,,410
+World,Historical,EV stock,Trucks,BEV,2013,,737
+World,Historical,EV stock,Trucks,BEV,2014,,892
+World,Historical,EV stock,Trucks,BEV,2015,,6919
+World,Historical,EV stock,Trucks,BEV,2016,,11403
+World,Historical,EV stock,Trucks,FCEV,2016,,1
+World,Historical,EV stock,Trucks,BEV,2017,,15190
+World,Historical,EV stock,Trucks,FCEV,2017,,1
+World,Historical,EV stock,Trucks,PHEV,2017,,10
+World,Historical,EV stock,Trucks,BEV,2018,,16954
+World,Historical,EV stock,Trucks,FCEV,2018,,1335
+World,Historical,EV stock,Trucks,PHEV,2018,,20
+World,Historical,EV stock,Trucks,BEV,2019,,23523
+World,Historical,EV stock,Trucks,FCEV,2019,,3355
+World,Historical,EV stock,Trucks,PHEV,2019,,169
+World,Historical,EV stock,Trucks,BEV,2020,,30872
+World,Historical,EV stock,Trucks,FCEV,2020,,3185
+World,Historical,EV stock,Trucks,PHEV,2020,,228

@@ -1,0 +1,705 @@
+region,category,parameter,mode,powertrain,year,unit,value
+Australia,Historical,EV sales,Cars,BEV,2011,,49
+Australia,Historical,EV sales,Cars,BEV,2012,,173
+Australia,Historical,EV sales,Cars,PHEV,2012,,80
+Australia,Historical,EV sales,Cars,BEV,2013,,191
+Australia,Historical,EV sales,Cars,PHEV,2013,,102
+Australia,Historical,EV sales,Cars,BEV,2014,,371
+Australia,Historical,EV sales,Cars,PHEV,2014,,951
+Australia,Historical,EV sales,Cars,BEV,2015,,759
+Australia,Historical,EV sales,Cars,PHEV,2015,,1012
+Australia,Historical,EV sales,Cars,BEV,2016,,668
+Australia,Historical,EV sales,Cars,PHEV,2016,,701
+Australia,Historical,EV sales,Cars,BEV,2017,,1208
+Australia,Historical,EV sales,Cars,PHEV,2017,,1076
+Australia,Historical,EV sales,Cars,BEV,2018,,1803
+Australia,Historical,EV sales,Cars,PHEV,2018,,1802
+Australia,Historical,EV sales,Cars,BEV,2019,,6283
+Australia,Historical,EV sales,Cars,PHEV,2019,,2877
+Australia,Historical,EV sales,Cars,BEV,2020,,5238
+Australia,Historical,EV sales,Cars,PHEV,2020,,1307
+Belgium,Historical,EV sales,Cars,BEV,2011,,175
+Belgium,Historical,EV sales,Cars,PHEV,2011,,11
+Belgium,Historical,EV sales,Cars,BEV,2012,,355
+Belgium,Historical,EV sales,Cars,PHEV,2012,,210
+Belgium,Historical,EV sales,Cars,BEV,2013,,500
+Belgium,Historical,EV sales,Cars,PHEV,2013,,34
+Belgium,Historical,EV sales,Cars,BEV,2014,,2047
+Belgium,Historical,EV sales,Cars,PHEV,2014,,69
+Belgium,Historical,EV sales,Cars,BEV,2015,,1358
+Belgium,Historical,EV sales,Cars,FCEV,2015,,2
+Belgium,Historical,EV sales,Cars,PHEV,2015,,2477
+Belgium,Historical,EV sales,Cars,BEV,2016,,2054
+Belgium,Historical,EV sales,Cars,FCEV,2016,,7
+Belgium,Historical,EV sales,Cars,PHEV,2016,,6671
+Belgium,Historical,EV sales,Cars,BEV,2017,,2713
+Belgium,Historical,EV sales,Cars,FCEV,2017,,11
+Belgium,Historical,EV sales,Cars,PHEV,2017,,11746
+Belgium,Historical,EV sales,Cars,BEV,2018,,3647
+Belgium,Historical,EV sales,Cars,FCEV,2018,,16
+Belgium,Historical,EV sales,Cars,PHEV,2018,,9706
+Belgium,Historical,EV sales,Cars,BEV,2019,,8837
+Belgium,Historical,EV sales,Cars,FCEV,2019,,12
+Belgium,Historical,EV sales,Cars,PHEV,2019,,8924
+Belgium,Historical,EV sales,Cars,BEV,2020,,15195
+Belgium,Historical,EV sales,Cars,FCEV,2020,,23
+Belgium,Historical,EV sales,Cars,PHEV,2020,,33012
+Brazil,Historical,EV sales,Cars,BEV,2012,,73.5999984741211
+Brazil,Historical,EV sales,Cars,PHEV,2012,,18.399999618530273
+Brazil,Historical,EV sales,Cars,BEV,2013,,133.60000610351562
+Brazil,Historical,EV sales,Cars,PHEV,2013,,33.400001525878906
+Brazil,Historical,EV sales,Cars,BEV,2014,,61
+Brazil,Historical,EV sales,Cars,BEV,2015,,59
+Brazil,Historical,EV sales,Cars,PHEV,2015,,28
+Brazil,Historical,EV sales,Cars,BEV,2016,,126
+Brazil,Historical,EV sales,Cars,PHEV,2016,,47
+Brazil,Historical,EV sales,Cars,BEV,2017,,28
+Brazil,Historical,EV sales,Cars,PHEV,2017,,288
+Brazil,Historical,EV sales,Cars,BEV,2018,,71
+Brazil,Historical,EV sales,Cars,PHEV,2018,,234
+Brazil,Historical,EV sales,Cars,BEV,2019,,538
+Brazil,Historical,EV sales,Cars,PHEV,2019,,1373
+Brazil,Historical,EV sales,Cars,BEV,2020,,686
+Brazil,Historical,EV sales,Cars,PHEV,2020,,1296
+Canada,Historical,EV sales,Cars,BEV,2011,,220
+Canada,Historical,EV sales,Cars,PHEV,2011,,300
+Canada,Historical,EV sales,Cars,BEV,2012,,620
+Canada,Historical,EV sales,Cars,PHEV,2012,,1400
+Canada,Historical,EV sales,Cars,BEV,2013,,1640
+Canada,Historical,EV sales,Cars,PHEV,2013,,1480
+Canada,Historical,EV sales,Cars,BEV,2014,,2825
+Canada,Historical,EV sales,Cars,PHEV,2014,,2240
+Canada,Historical,EV sales,Cars,BEV,2015,,4380
+Canada,Historical,EV sales,Cars,PHEV,2015,,2580
+Canada,Historical,EV sales,Cars,BEV,2016,,5220
+Canada,Historical,EV sales,Cars,PHEV,2016,,6360
+Canada,Historical,EV sales,Cars,BEV,2017,,8714.5517578125
+Canada,Historical,EV sales,Cars,PHEV,2017,,7970.14892578125
+Canada,Historical,EV sales,Cars,BEV,2018,,22660
+Canada,Historical,EV sales,Cars,PHEV,2018,,21490
+Canada,Historical,EV sales,Cars,BEV,2019,,32402
+Canada,Historical,EV sales,Cars,FCEV,2019,,79
+Canada,Historical,EV sales,Cars,PHEV,2019,,18561
+Canada,Historical,EV sales,Cars,BEV,2020,,36912
+Canada,Historical,EV sales,Cars,FCEV,2020,,16
+Canada,Historical,EV sales,Cars,PHEV,2020,,14464
+Chile,Historical,EV sales,Cars,BEV,2011,,6
+Chile,Historical,EV sales,Cars,BEV,2012,,5
+Chile,Historical,EV sales,Cars,BEV,2013,,5
+Chile,Historical,EV sales,Cars,BEV,2014,,3
+Chile,Historical,EV sales,Cars,PHEV,2014,,14
+Chile,Historical,EV sales,Cars,BEV,2015,,13
+Chile,Historical,EV sales,Cars,PHEV,2015,,23
+Chile,Historical,EV sales,Cars,BEV,2016,,22
+Chile,Historical,EV sales,Cars,PHEV,2016,,9
+Chile,Historical,EV sales,Cars,BEV,2017,,118
+Chile,Historical,EV sales,Cars,PHEV,2017,,15
+Chile,Historical,EV sales,Cars,BEV,2018,,109
+Chile,Historical,EV sales,Cars,PHEV,2018,,68
+Chile,Historical,EV sales,Cars,BEV,2019,,161
+Chile,Historical,EV sales,Cars,PHEV,2019,,137
+Chile,Historical,EV sales,Cars,BEV,2020,,112
+Chile,Historical,EV sales,Cars,PHEV,2020,,79
+China,Historical,EV sales,Cars,BEV,2010,,1090
+China,Historical,EV sales,Cars,PHEV,2010,,340
+China,Historical,EV sales,Cars,BEV,2011,,4750
+China,Historical,EV sales,Cars,PHEV,2011,,320
+China,Historical,EV sales,Cars,BEV,2012,,9640
+China,Historical,EV sales,Cars,PHEV,2012,,260
+China,Historical,EV sales,Cars,BEV,2013,,14610
+China,Historical,EV sales,Cars,PHEV,2013,,730
+China,Historical,EV sales,Cars,BEV,2014,,48906.33203125
+China,Historical,EV sales,Cars,PHEV,2014,,24265.19921875
+China,Historical,EV sales,Cars,BEV,2015,,146719
+China,Historical,EV sales,Cars,PHEV,2015,,60663
+China,Historical,EV sales,Cars,BEV,2016,,257000
+China,Historical,EV sales,Cars,PHEV,2016,,79000
+China,Historical,EV sales,Cars,BEV,2017,,468000
+China,Historical,EV sales,Cars,PHEV,2017,,111000
+China,Historical,EV sales,Cars,BEV,2018,,815870
+China,Historical,EV sales,Cars,FCEV,2018,,1527
+China,Historical,EV sales,Cars,PHEV,2018,,265219
+China,Historical,EV sales,Cars,BEV,2019,,834197
+China,Historical,EV sales,Cars,FCEV,2019,,2737
+China,Historical,EV sales,Cars,PHEV,2019,,226106
+China,Historical,EV sales,Cars,BEV,2020,,931291
+China,Historical,EV sales,Cars,FCEV,2020,,1182
+China,Historical,EV sales,Cars,PHEV,2020,,228291
+Denmark,Historical,EV sales,Cars,BEV,2010,,28
+Denmark,Historical,EV sales,Cars,PHEV,2010,,20
+Denmark,Historical,EV sales,Cars,BEV,2011,,422
+Denmark,Historical,EV sales,Cars,BEV,2012,,486
+Denmark,Historical,EV sales,Cars,PHEV,2012,,11
+Denmark,Historical,EV sales,Cars,BEV,2013,,495
+Denmark,Historical,EV sales,Cars,PHEV,2013,,6
+Denmark,Historical,EV sales,Cars,BEV,2014,,1508
+Denmark,Historical,EV sales,Cars,PHEV,2014,,87
+Denmark,Historical,EV sales,Cars,BEV,2015,,4239
+Denmark,Historical,EV sales,Cars,FCEV,2015,,37
+Denmark,Historical,EV sales,Cars,PHEV,2015,,359
+Denmark,Historical,EV sales,Cars,BEV,2016,,1218
+Denmark,Historical,EV sales,Cars,FCEV,2016,,16
+Denmark,Historical,EV sales,Cars,PHEV,2016,,182.25999450683594
+Denmark,Historical,EV sales,Cars,BEV,2017,,693
+Denmark,Historical,EV sales,Cars,FCEV,2017,,15
+Denmark,Historical,EV sales,Cars,PHEV,2017,,620
+Denmark,Historical,EV sales,Cars,BEV,2018,,1545
+Denmark,Historical,EV sales,Cars,FCEV,2018,,5
+Denmark,Historical,EV sales,Cars,PHEV,2018,,3127
+Denmark,Historical,EV sales,Cars,BEV,2019,,5532
+Denmark,Historical,EV sales,Cars,FCEV,2019,,8
+Denmark,Historical,EV sales,Cars,PHEV,2019,,3885
+Denmark,Historical,EV sales,Cars,BEV,2020,,14232
+Denmark,Historical,EV sales,Cars,FCEV,2020,,45
+Denmark,Historical,EV sales,Cars,PHEV,2020,,18246
+Finland,Historical,EV sales,Cars,BEV,2011,,30
+Finland,Historical,EV sales,Cars,BEV,2012,,51
+Finland,Historical,EV sales,Cars,PHEV,2012,,128
+Finland,Historical,EV sales,Cars,BEV,2013,,50
+Finland,Historical,EV sales,Cars,PHEV,2013,,168
+Finland,Historical,EV sales,Cars,BEV,2014,,183
+Finland,Historical,EV sales,Cars,PHEV,2014,,257
+Finland,Historical,EV sales,Cars,BEV,2015,,243
+Finland,Historical,EV sales,Cars,PHEV,2015,,442
+Finland,Historical,EV sales,Cars,BEV,2016,,223
+Finland,Historical,EV sales,Cars,PHEV,2016,,1207
+Finland,Historical,EV sales,Cars,BEV,2017,,502
+Finland,Historical,EV sales,Cars,PHEV,2017,,2553
+Finland,Historical,EV sales,Cars,BEV,2018,,776
+Finland,Historical,EV sales,Cars,FCEV,2018,,1
+Finland,Historical,EV sales,Cars,PHEV,2018,,4932
+Finland,Historical,EV sales,Cars,BEV,2019,,1897
+Finland,Historical,EV sales,Cars,PHEV,2019,,5983
+Finland,Historical,EV sales,Cars,BEV,2020,,4245
+Finland,Historical,EV sales,Cars,PHEV,2020,,13231
+France,Historical,EV sales,Cars,BEV,2010,,187
+France,Historical,EV sales,Cars,BEV,2011,,2630
+France,Historical,EV sales,Cars,PHEV,2011,,96.16000366210938
+France,Historical,EV sales,Cars,BEV,2012,,5661
+France,Historical,EV sales,Cars,PHEV,2012,,601
+France,Historical,EV sales,Cars,BEV,2013,,8781
+France,Historical,EV sales,Cars,FCEV,2013,,1
+France,Historical,EV sales,Cars,PHEV,2013,,834
+France,Historical,EV sales,Cars,BEV,2014,,10567
+France,Historical,EV sales,Cars,FCEV,2014,,1
+France,Historical,EV sales,Cars,PHEV,2014,,2068
+France,Historical,EV sales,Cars,BEV,2015,,17270
+France,Historical,EV sales,Cars,FCEV,2015,,10
+France,Historical,EV sales,Cars,PHEV,2015,,5677
+France,Historical,EV sales,Cars,BEV,2016,,21758
+France,Historical,EV sales,Cars,FCEV,2016,,4
+France,Historical,EV sales,Cars,PHEV,2016,,7749
+France,Historical,EV sales,Cars,BEV,2017,,25983
+France,Historical,EV sales,Cars,FCEV,2017,,46
+France,Historical,EV sales,Cars,PHEV,2017,,11614
+France,Historical,EV sales,Cars,BEV,2018,,31055
+France,Historical,EV sales,Cars,FCEV,2018,,10
+France,Historical,EV sales,Cars,PHEV,2018,,15648
+France,Historical,EV sales,Cars,BEV,2019,,42800
+France,Historical,EV sales,Cars,FCEV,2019,,60
+France,Historical,EV sales,Cars,PHEV,2019,,18553
+France,Historical,EV sales,Cars,BEV,2020,,110000
+France,Historical,EV sales,Cars,FCEV,2020,,211
+France,Historical,EV sales,Cars,PHEV,2020,,74587
+Germany,Historical,EV sales,Cars,BEV,2010,,144
+Germany,Historical,EV sales,Cars,FCEV,2010,,16
+Germany,Historical,EV sales,Cars,BEV,2011,,1404
+Germany,Historical,EV sales,Cars,FCEV,2011,,38
+Germany,Historical,EV sales,Cars,PHEV,2011,,241
+Germany,Historical,EV sales,Cars,BEV,2012,,2214
+Germany,Historical,EV sales,Cars,FCEV,2012,,29
+Germany,Historical,EV sales,Cars,PHEV,2012,,1157
+Germany,Historical,EV sales,Cars,BEV,2013,,5311
+Germany,Historical,EV sales,Cars,FCEV,2013,,23
+Germany,Historical,EV sales,Cars,PHEV,2013,,1620
+Germany,Historical,EV sales,Cars,BEV,2014,,8347
+Germany,Historical,EV sales,Cars,FCEV,2014,,8
+Germany,Historical,EV sales,Cars,PHEV,2014,,4390
+Germany,Historical,EV sales,Cars,BEV,2015,,12081
+Germany,Historical,EV sales,Cars,FCEV,2015,,63
+Germany,Historical,EV sales,Cars,PHEV,2015,,11111
+Germany,Historical,EV sales,Cars,BEV,2016,,11321.51953125
+Germany,Historical,EV sales,Cars,PHEV,2016,,13290.48046875
+Germany,Historical,EV sales,Cars,BEV,2017,,25065
+Germany,Historical,EV sales,Cars,FCEV,2017,,11
+Germany,Historical,EV sales,Cars,PHEV,2017,,29499
+Germany,Historical,EV sales,Cars,BEV,2018,,36062
+Germany,Historical,EV sales,Cars,FCEV,2018,,24
+Germany,Historical,EV sales,Cars,PHEV,2018,,31442
+Germany,Historical,EV sales,Cars,BEV,2019,,63281
+Germany,Historical,EV sales,Cars,FCEV,2019,,201
+Germany,Historical,EV sales,Cars,PHEV,2019,,45348
+Germany,Historical,EV sales,Cars,BEV,2020,,194474
+Germany,Historical,EV sales,Cars,FCEV,2020,,308
+Germany,Historical,EV sales,Cars,PHEV,2020,,200469
+Greece,Historical,EV sales,Cars,BEV,2013,,3
+Greece,Historical,EV sales,Cars,BEV,2014,,39
+Greece,Historical,EV sales,Cars,BEV,2015,,54
+Greece,Historical,EV sales,Cars,PHEV,2015,,21
+Greece,Historical,EV sales,Cars,BEV,2016,,41
+Greece,Historical,EV sales,Cars,PHEV,2016,,55
+Greece,Historical,EV sales,Cars,BEV,2017,,53
+Greece,Historical,EV sales,Cars,PHEV,2017,,138
+Greece,Historical,EV sales,Cars,BEV,2018,,88
+Greece,Historical,EV sales,Cars,PHEV,2018,,211
+Greece,Historical,EV sales,Cars,BEV,2019,,190
+Greece,Historical,EV sales,Cars,PHEV,2019,,290
+Greece,Historical,EV sales,Cars,BEV,2020,,679
+Greece,Historical,EV sales,Cars,PHEV,2020,,1452
+Iceland,Historical,EV sales,Cars,BEV,2010,,2
+Iceland,Historical,EV sales,Cars,FCEV,2010,,11
+Iceland,Historical,EV sales,Cars,BEV,2012,,17
+Iceland,Historical,EV sales,Cars,PHEV,2012,,9
+Iceland,Historical,EV sales,Cars,BEV,2013,,80
+Iceland,Historical,EV sales,Cars,PHEV,2013,,23
+Iceland,Historical,EV sales,Cars,BEV,2014,,195
+Iceland,Historical,EV sales,Cars,PHEV,2014,,29
+Iceland,Historical,EV sales,Cars,BEV,2015,,387
+Iceland,Historical,EV sales,Cars,PHEV,2015,,166
+Iceland,Historical,EV sales,Cars,BEV,2016,,375
+Iceland,Historical,EV sales,Cars,PHEV,2016,,780
+Iceland,Historical,EV sales,Cars,BEV,2017,,847
+Iceland,Historical,EV sales,Cars,PHEV,2017,,2181
+Iceland,Historical,EV sales,Cars,BEV,2018,,784
+Iceland,Historical,EV sales,Cars,FCEV,2018,,16
+Iceland,Historical,EV sales,Cars,PHEV,2018,,2868
+Iceland,Historical,EV sales,Cars,BEV,2019,,914
+Iceland,Historical,EV sales,Cars,FCEV,2019,,7
+Iceland,Historical,EV sales,Cars,PHEV,2019,,1734
+Iceland,Historical,EV sales,Cars,BEV,2020,,2551
+Iceland,Historical,EV sales,Cars,FCEV,2020,,1
+Iceland,Historical,EV sales,Cars,PHEV,2020,,2355
+India,Historical,EV sales,Cars,BEV,2010,,449
+India,Historical,EV sales,Cars,BEV,2011,,1428
+India,Historical,EV sales,Cars,BEV,2012,,191
+India,Historical,EV sales,Cars,BEV,2013,,408
+India,Historical,EV sales,Cars,BEV,2014,,1000
+India,Historical,EV sales,Cars,BEV,2015,,450
+India,Historical,EV sales,Cars,BEV,2016,,2000
+India,Historical,EV sales,Cars,BEV,2017,,1200
+India,Historical,EV sales,Cars,BEV,2018,,2104
+India,Historical,EV sales,Cars,BEV,2019,,2081
+India,Historical,EV sales,Cars,PHEV,2019,,7
+India,Historical,EV sales,Cars,BEV,2020,,1554
+India,Historical,EV sales,Cars,PHEV,2020,,43
+Italy,Historical,EV sales,Cars,BEV,2010,,40
+Italy,Historical,EV sales,Cars,BEV,2011,,113
+Italy,Historical,EV sales,Cars,BEV,2012,,459
+Italy,Historical,EV sales,Cars,BEV,2013,,794
+Italy,Historical,EV sales,Cars,PHEV,2013,,182
+Italy,Historical,EV sales,Cars,BEV,2014,,1040
+Italy,Historical,EV sales,Cars,FCEV,2014,,10
+Italy,Historical,EV sales,Cars,PHEV,2014,,336
+Italy,Historical,EV sales,Cars,BEV,2015,,1396
+Italy,Historical,EV sales,Cars,FCEV,2015,,1
+Italy,Historical,EV sales,Cars,PHEV,2015,,738
+Italy,Historical,EV sales,Cars,BEV,2016,,1382.2900390625
+Italy,Historical,EV sales,Cars,PHEV,2016,,1438.7099609375
+Italy,Historical,EV sales,Cars,BEV,2017,,2022
+Italy,Historical,EV sales,Cars,PHEV,2017,,2864
+Italy,Historical,EV sales,Cars,BEV,2018,,4978
+Italy,Historical,EV sales,Cars,FCEV,2018,,1
+Italy,Historical,EV sales,Cars,PHEV,2018,,4798
+Italy,Historical,EV sales,Cars,BEV,2019,,10663
+Italy,Historical,EV sales,Cars,FCEV,2019,,17
+Italy,Historical,EV sales,Cars,PHEV,2019,,6471
+Italy,Historical,EV sales,Cars,BEV,2020,,32485
+Italy,Historical,EV sales,Cars,FCEV,2020,,7
+Italy,Historical,EV sales,Cars,PHEV,2020,,27407
+Japan,Historical,EV sales,Cars,BEV,2010,,2442
+Japan,Historical,EV sales,Cars,FCEV,2010,,2
+Japan,Historical,EV sales,Cars,BEV,2011,,12607
+Japan,Historical,EV sales,Cars,PHEV,2011,,15
+Japan,Historical,EV sales,Cars,BEV,2012,,13469
+Japan,Historical,EV sales,Cars,FCEV,2012,,1
+Japan,Historical,EV sales,Cars,PHEV,2012,,10968
+Japan,Historical,EV sales,Cars,BEV,2013,,14756
+Japan,Historical,EV sales,Cars,FCEV,2013,,4
+Japan,Historical,EV sales,Cars,PHEV,2013,,14122
+Japan,Historical,EV sales,Cars,BEV,2014,,16109
+Japan,Historical,EV sales,Cars,FCEV,2014,,7
+Japan,Historical,EV sales,Cars,PHEV,2014,,16178
+Japan,Historical,EV sales,Cars,BEV,2015,,10465
+Japan,Historical,EV sales,Cars,FCEV,2015,,388
+Japan,Historical,EV sales,Cars,PHEV,2015,,14188
+Japan,Historical,EV sales,Cars,BEV,2016,,15300
+Japan,Historical,EV sales,Cars,FCEV,2016,,1055
+Japan,Historical,EV sales,Cars,PHEV,2016,,9390
+Japan,Historical,EV sales,Cars,BEV,2017,,18100
+Japan,Historical,EV sales,Cars,FCEV,2017,,850
+Japan,Historical,EV sales,Cars,PHEV,2017,,36000
+Japan,Historical,EV sales,Cars,BEV,2018,,26530
+Japan,Historical,EV sales,Cars,FCEV,2018,,610
+Japan,Historical,EV sales,Cars,PHEV,2018,,23220
+Japan,Historical,EV sales,Cars,BEV,2019,,21300
+Japan,Historical,EV sales,Cars,FCEV,2019,,673
+Japan,Historical,EV sales,Cars,PHEV,2019,,17600
+Japan,Historical,EV sales,Cars,BEV,2020,,14600
+Japan,Historical,EV sales,Cars,FCEV,2020,,800
+Japan,Historical,EV sales,Cars,PHEV,2020,,14700
+Korea,Historical,EV sales,Cars,BEV,2010,,61
+Korea,Historical,EV sales,Cars,BEV,2011,,274
+Korea,Historical,EV sales,Cars,BEV,2012,,514
+Korea,Historical,EV sales,Cars,BEV,2013,,598
+Korea,Historical,EV sales,Cars,BEV,2014,,1257
+Korea,Historical,EV sales,Cars,BEV,2015,,3051
+Korea,Historical,EV sales,Cars,FCEV,2015,,29
+Korea,Historical,EV sales,Cars,PHEV,2015,,252
+Korea,Historical,EV sales,Cars,BEV,2016,,4685
+Korea,Historical,EV sales,Cars,FCEV,2016,,58
+Korea,Historical,EV sales,Cars,PHEV,2016,,331
+Korea,Historical,EV sales,Cars,BEV,2017,,13970
+Korea,Historical,EV sales,Cars,FCEV,2017,,75
+Korea,Historical,EV sales,Cars,PHEV,2017,,670
+Korea,Historical,EV sales,Cars,BEV,2018,,55486
+Korea,Historical,EV sales,Cars,FCEV,2018,,906
+Korea,Historical,EV sales,Cars,PHEV,2018,,4367
+Korea,Historical,EV sales,Cars,BEV,2019,,33423
+Korea,Historical,EV sales,Cars,FCEV,2019,,4179
+Korea,Historical,EV sales,Cars,PHEV,2019,,2730
+Korea,Historical,EV sales,Cars,BEV,2020,,31329
+Korea,Historical,EV sales,Cars,FCEV,2020,,5783
+Korea,Historical,EV sales,Cars,PHEV,2020,,8509
+Mexico,Historical,EV sales,Cars,BEV,2011,,3
+Mexico,Historical,EV sales,Cars,BEV,2012,,88
+Mexico,Historical,EV sales,Cars,BEV,2013,,12
+Mexico,Historical,EV sales,Cars,BEV,2014,,48
+Mexico,Historical,EV sales,Cars,BEV,2015,,92
+Mexico,Historical,EV sales,Cars,PHEV,2015,,7
+Mexico,Historical,EV sales,Cars,BEV,2016,,254
+Mexico,Historical,EV sales,Cars,PHEV,2016,,521
+Mexico,Historical,EV sales,Cars,BEV,2017,,234
+Mexico,Historical,EV sales,Cars,PHEV,2017,,968
+Mexico,Historical,EV sales,Cars,BEV,2018,,201
+Mexico,Historical,EV sales,Cars,PHEV,2018,,1584
+Mexico,Historical,EV sales,Cars,BEV,2019,,268
+Mexico,Historical,EV sales,Cars,PHEV,2019,,452
+Mexico,Historical,EV sales,Cars,BEV,2020,,1906
+Mexico,Historical,EV sales,Cars,PHEV,2020,,610
+Netherlands,Historical,EV sales,Cars,BEV,2010,,120
+Netherlands,Historical,EV sales,Cars,BEV,2011,,858
+Netherlands,Historical,EV sales,Cars,PHEV,2011,,17
+Netherlands,Historical,EV sales,Cars,BEV,2012,,786
+Netherlands,Historical,EV sales,Cars,PHEV,2012,,4331
+Netherlands,Historical,EV sales,Cars,BEV,2013,,2251
+Netherlands,Historical,EV sales,Cars,PHEV,2013,,20164
+Netherlands,Historical,EV sales,Cars,BEV,2014,,2664
+Netherlands,Historical,EV sales,Cars,FCEV,2014,,2.2109999656677246
+Netherlands,Historical,EV sales,Cars,PHEV,2014,,12425
+Netherlands,Historical,EV sales,Cars,BEV,2015,,2543
+Netherlands,Historical,EV sales,Cars,FCEV,2015,,21
+Netherlands,Historical,EV sales,Cars,PHEV,2015,,41226
+Netherlands,Historical,EV sales,Cars,BEV,2016,,4054
+Netherlands,Historical,EV sales,Cars,FCEV,2016,,7
+Netherlands,Historical,EV sales,Cars,PHEV,2016,,18619
+Netherlands,Historical,EV sales,Cars,BEV,2017,,9194
+Netherlands,Historical,EV sales,Cars,FCEV,2017,,5
+Netherlands,Historical,EV sales,Cars,PHEV,2017,,1130
+Netherlands,Historical,EV sales,Cars,BEV,2018,,24434
+Netherlands,Historical,EV sales,Cars,FCEV,2018,,13
+Netherlands,Historical,EV sales,Cars,PHEV,2018,,3536
+Netherlands,Historical,EV sales,Cars,BEV,2019,,62004
+Netherlands,Historical,EV sales,Cars,FCEV,2019,,156
+Netherlands,Historical,EV sales,Cars,PHEV,2019,,5518
+Netherlands,Historical,EV sales,Cars,BEV,2020,,72299
+Netherlands,Historical,EV sales,Cars,FCEV,2020,,146
+Netherlands,Historical,EV sales,Cars,PHEV,2020,,15960
+New Zealand,Historical,EV sales,Cars,BEV,2010,,10
+New Zealand,Historical,EV sales,Cars,BEV,2011,,13
+New Zealand,Historical,EV sales,Cars,PHEV,2011,,2
+New Zealand,Historical,EV sales,Cars,BEV,2012,,22
+New Zealand,Historical,EV sales,Cars,PHEV,2012,,5
+New Zealand,Historical,EV sales,Cars,BEV,2013,,30
+New Zealand,Historical,EV sales,Cars,PHEV,2013,,6
+New Zealand,Historical,EV sales,Cars,BEV,2014,,112
+New Zealand,Historical,EV sales,Cars,PHEV,2014,,207
+New Zealand,Historical,EV sales,Cars,BEV,2015,,295
+New Zealand,Historical,EV sales,Cars,PHEV,2015,,199
+New Zealand,Historical,EV sales,Cars,BEV,2016,,1162
+New Zealand,Historical,EV sales,Cars,PHEV,2016,,340
+New Zealand,Historical,EV sales,Cars,BEV,2017,,2935
+New Zealand,Historical,EV sales,Cars,PHEV,2017,,537
+New Zealand,Historical,EV sales,Cars,BEV,2018,,4356
+New Zealand,Historical,EV sales,Cars,PHEV,2018,,1185
+New Zealand,Historical,EV sales,Cars,BEV,2019,,5280
+New Zealand,Historical,EV sales,Cars,FCEV,2019,,2
+New Zealand,Historical,EV sales,Cars,PHEV,2019,,1604
+New Zealand,Historical,EV sales,Cars,BEV,2020,,3908
+New Zealand,Historical,EV sales,Cars,FCEV,2020,,3
+New Zealand,Historical,EV sales,Cars,PHEV,2020,,1458
+Norway,Historical,EV sales,Cars,BEV,2010,,905
+Norway,Historical,EV sales,Cars,PHEV,2010,,2
+Norway,Historical,EV sales,Cars,BEV,2011,,1229
+Norway,Historical,EV sales,Cars,PHEV,2011,,1
+Norway,Historical,EV sales,Cars,BEV,2012,,4122
+Norway,Historical,EV sales,Cars,PHEV,2012,,333
+Norway,Historical,EV sales,Cars,BEV,2013,,7882
+Norway,Historical,EV sales,Cars,PHEV,2013,,323
+Norway,Historical,EV sales,Cars,BEV,2014,,19771
+Norway,Historical,EV sales,Cars,FCEV,2014,,4
+Norway,Historical,EV sales,Cars,PHEV,2014,,1677
+Norway,Historical,EV sales,Cars,BEV,2015,,25779
+Norway,Historical,EV sales,Cars,FCEV,2015,,9
+Norway,Historical,EV sales,Cars,PHEV,2015,,7947
+Norway,Historical,EV sales,Cars,BEV,2016,,24222
+Norway,Historical,EV sales,Cars,FCEV,2016,,20
+Norway,Historical,EV sales,Cars,PHEV,2016,,20666
+Norway,Historical,EV sales,Cars,BEV,2017,,33080
+Norway,Historical,EV sales,Cars,FCEV,2017,,30
+Norway,Historical,EV sales,Cars,PHEV,2017,,29232
+Norway,Historical,EV sales,Cars,BEV,2018,,46143
+Norway,Historical,EV sales,Cars,FCEV,2018,,45
+Norway,Historical,EV sales,Cars,PHEV,2018,,26546
+Norway,Historical,EV sales,Cars,BEV,2019,,60345
+Norway,Historical,EV sales,Cars,FCEV,2019,,29
+Norway,Historical,EV sales,Cars,PHEV,2019,,19295
+Norway,Historical,EV sales,Cars,BEV,2020,,76804
+Norway,Historical,EV sales,Cars,FCEV,2020,,16
+Norway,Historical,EV sales,Cars,PHEV,2020,,28905
+Other Europe,Historical,EV sales,Cars,BEV,2011,,871
+Other Europe,Historical,EV sales,Cars,PHEV,2011,,19
+Other Europe,Historical,EV sales,Cars,BEV,2012,,1354
+Other Europe,Historical,EV sales,Cars,PHEV,2012,,358
+Other Europe,Historical,EV sales,Cars,BEV,2013,,1110
+Other Europe,Historical,EV sales,Cars,PHEV,2013,,270
+Other Europe,Historical,EV sales,Cars,BEV,2014,,2738
+Other Europe,Historical,EV sales,Cars,FCEV,2014,,6
+Other Europe,Historical,EV sales,Cars,PHEV,2014,,788
+Other Europe,Historical,EV sales,Cars,BEV,2015,,3312
+Other Europe,Historical,EV sales,Cars,FCEV,2015,,4
+Other Europe,Historical,EV sales,Cars,PHEV,2015,,1862
+Other Europe,Historical,EV sales,Cars,BEV,2016,,5414
+Other Europe,Historical,EV sales,Cars,FCEV,2016,,11
+Other Europe,Historical,EV sales,Cars,PHEV,2016,,2286
+Other Europe,Historical,EV sales,Cars,BEV,2017,,8772
+Other Europe,Historical,EV sales,Cars,FCEV,2017,,2
+Other Europe,Historical,EV sales,Cars,PHEV,2017,,4167
+Other Europe,Historical,EV sales,Cars,BEV,2018,,12754
+Other Europe,Historical,EV sales,Cars,FCEV,2018,,73
+Other Europe,Historical,EV sales,Cars,PHEV,2018,,5239
+Other Europe,Historical,EV sales,Cars,BEV,2019,,20346
+Other Europe,Historical,EV sales,Cars,FCEV,2019,,19
+Other Europe,Historical,EV sales,Cars,PHEV,2019,,7448
+Other Europe,Historical,EV sales,Cars,BEV,2020,,36494
+Other Europe,Historical,EV sales,Cars,FCEV,2020,,19
+Other Europe,Historical,EV sales,Cars,PHEV,2020,,20965
+Poland,Historical,EV sales,Cars,BEV,2010,,15
+Poland,Historical,EV sales,Cars,PHEV,2010,,1
+Poland,Historical,EV sales,Cars,BEV,2011,,43
+Poland,Historical,EV sales,Cars,BEV,2012,,44
+Poland,Historical,EV sales,Cars,PHEV,2012,,4
+Poland,Historical,EV sales,Cars,BEV,2013,,45
+Poland,Historical,EV sales,Cars,PHEV,2013,,6
+Poland,Historical,EV sales,Cars,BEV,2014,,135
+Poland,Historical,EV sales,Cars,PHEV,2014,,61
+Poland,Historical,EV sales,Cars,BEV,2015,,176
+Poland,Historical,EV sales,Cars,PHEV,2015,,155
+Poland,Historical,EV sales,Cars,BEV,2016,,329
+Poland,Historical,EV sales,Cars,PHEV,2016,,383
+Poland,Historical,EV sales,Cars,BEV,2017,,920
+Poland,Historical,EV sales,Cars,PHEV,2017,,683
+Poland,Historical,EV sales,Cars,BEV,2018,,1143
+Poland,Historical,EV sales,Cars,FCEV,2018,,1
+Poland,Historical,EV sales,Cars,PHEV,2018,,951
+Poland,Historical,EV sales,Cars,BEV,2019,,2326
+Poland,Historical,EV sales,Cars,PHEV,2019,,1797
+Poland,Historical,EV sales,Cars,BEV,2020,,4870
+Poland,Historical,EV sales,Cars,PHEV,2020,,5010
+Portugal,Historical,EV sales,Cars,BEV,2010,,719
+Portugal,Historical,EV sales,Cars,BEV,2011,,189
+Portugal,Historical,EV sales,Cars,BEV,2012,,52
+Portugal,Historical,EV sales,Cars,BEV,2013,,141
+Portugal,Historical,EV sales,Cars,PHEV,2013,,37
+Portugal,Historical,EV sales,Cars,BEV,2014,,193
+Portugal,Historical,EV sales,Cars,PHEV,2014,,9
+Portugal,Historical,EV sales,Cars,BEV,2015,,673
+Portugal,Historical,EV sales,Cars,PHEV,2015,,442
+Portugal,Historical,EV sales,Cars,BEV,2016,,812
+Portugal,Historical,EV sales,Cars,PHEV,2016,,1027
+Portugal,Historical,EV sales,Cars,BEV,2017,,1893
+Portugal,Historical,EV sales,Cars,PHEV,2017,,2501
+Portugal,Historical,EV sales,Cars,BEV,2018,,4429
+Portugal,Historical,EV sales,Cars,PHEV,2018,,3908
+Portugal,Historical,EV sales,Cars,BEV,2019,,6883
+Portugal,Historical,EV sales,Cars,PHEV,2019,,5798
+Portugal,Historical,EV sales,Cars,BEV,2020,,8137
+Portugal,Historical,EV sales,Cars,PHEV,2020,,11858
+South Africa,Historical,EV sales,Cars,BEV,2013,,34
+South Africa,Historical,EV sales,Cars,BEV,2014,,14
+South Africa,Historical,EV sales,Cars,PHEV,2014,,1
+South Africa,Historical,EV sales,Cars,BEV,2015,,117
+South Africa,Historical,EV sales,Cars,PHEV,2015,,124
+South Africa,Historical,EV sales,Cars,BEV,2016,,100
+South Africa,Historical,EV sales,Cars,PHEV,2016,,277
+South Africa,Historical,EV sales,Cars,BEV,2017,,68
+South Africa,Historical,EV sales,Cars,PHEV,2017,,127
+South Africa,Historical,EV sales,Cars,BEV,2018,,66
+South Africa,Historical,EV sales,Cars,PHEV,2018,,82
+South Africa,Historical,EV sales,Cars,BEV,2019,,156
+South Africa,Historical,EV sales,Cars,PHEV,2019,,72
+South Africa,Historical,EV sales,Cars,BEV,2020,,92
+South Africa,Historical,EV sales,Cars,PHEV,2020,,78
+Spain,Historical,EV sales,Cars,BEV,2010,,76
+Spain,Historical,EV sales,Cars,BEV,2011,,386
+Spain,Historical,EV sales,Cars,BEV,2012,,427
+Spain,Historical,EV sales,Cars,BEV,2013,,811
+Spain,Historical,EV sales,Cars,PHEV,2013,,72
+Spain,Historical,EV sales,Cars,BEV,2014,,1405
+Spain,Historical,EV sales,Cars,PHEV,2014,,329
+Spain,Historical,EV sales,Cars,BEV,2015,,1342
+Spain,Historical,EV sales,Cars,PHEV,2015,,785
+Spain,Historical,EV sales,Cars,BEV,2016,,2005
+Spain,Historical,EV sales,Cars,PHEV,2016,,1511
+Spain,Historical,EV sales,Cars,BEV,2017,,3920
+Spain,Historical,EV sales,Cars,PHEV,2017,,3528
+Spain,Historical,EV sales,Cars,BEV,2018,,6003
+Spain,Historical,EV sales,Cars,FCEV,2018,,1
+Spain,Historical,EV sales,Cars,PHEV,2018,,5636
+Spain,Historical,EV sales,Cars,BEV,2019,,10044
+Spain,Historical,EV sales,Cars,FCEV,2019,,1
+Spain,Historical,EV sales,Cars,PHEV,2019,,7432
+Spain,Historical,EV sales,Cars,BEV,2020,,18543
+Spain,Historical,EV sales,Cars,FCEV,2020,,7
+Spain,Historical,EV sales,Cars,PHEV,2020,,23759
+Sweden,Historical,EV sales,Cars,BEV,2010,,4
+Sweden,Historical,EV sales,Cars,BEV,2011,,178
+Sweden,Historical,EV sales,Cars,BEV,2012,,266
+Sweden,Historical,EV sales,Cars,PHEV,2012,,662
+Sweden,Historical,EV sales,Cars,BEV,2013,,432
+Sweden,Historical,EV sales,Cars,FCEV,2013,,3
+Sweden,Historical,EV sales,Cars,PHEV,2013,,1115
+Sweden,Historical,EV sales,Cars,BEV,2014,,1239
+Sweden,Historical,EV sales,Cars,PHEV,2014,,3428
+Sweden,Historical,EV sales,Cars,BEV,2015,,2962
+Sweden,Historical,EV sales,Cars,FCEV,2015,,1
+Sweden,Historical,EV sales,Cars,PHEV,2015,,5625
+Sweden,Historical,EV sales,Cars,BEV,2016,,2951.300048828125
+Sweden,Historical,EV sales,Cars,FCEV,2016,,3
+Sweden,Historical,EV sales,Cars,PHEV,2016,,10463.7001953125
+Sweden,Historical,EV sales,Cars,BEV,2017,,4359
+Sweden,Historical,EV sales,Cars,FCEV,2017,,14
+Sweden,Historical,EV sales,Cars,PHEV,2017,,15986
+Sweden,Historical,EV sales,Cars,BEV,2018,,7147
+Sweden,Historical,EV sales,Cars,PHEV,2018,,21811
+Sweden,Historical,EV sales,Cars,BEV,2019,,15795
+Sweden,Historical,EV sales,Cars,FCEV,2019,,2
+Sweden,Historical,EV sales,Cars,PHEV,2019,,24907
+Sweden,Historical,EV sales,Cars,BEV,2020,,28097
+Sweden,Historical,EV sales,Cars,FCEV,2020,,5
+Sweden,Historical,EV sales,Cars,PHEV,2020,,66134
+Switzerland,Historical,EV sales,Cars,BEV,2010,,137
+Switzerland,Historical,EV sales,Cars,BEV,2011,,395
+Switzerland,Historical,EV sales,Cars,PHEV,2011,,41
+Switzerland,Historical,EV sales,Cars,BEV,2012,,342
+Switzerland,Historical,EV sales,Cars,PHEV,2012,,395
+Switzerland,Historical,EV sales,Cars,BEV,2013,,1156
+Switzerland,Historical,EV sales,Cars,PHEV,2013,,167
+Switzerland,Historical,EV sales,Cars,BEV,2014,,2688
+Switzerland,Historical,EV sales,Cars,PHEV,2014,,204
+Switzerland,Historical,EV sales,Cars,BEV,2015,,3257
+Switzerland,Historical,EV sales,Cars,FCEV,2015,,10
+Switzerland,Historical,EV sales,Cars,PHEV,2015,,2369
+Switzerland,Historical,EV sales,Cars,BEV,2016,,3295
+Switzerland,Historical,EV sales,Cars,FCEV,2016,,26
+Switzerland,Historical,EV sales,Cars,PHEV,2016,,2829
+Switzerland,Historical,EV sales,Cars,BEV,2017,,4775
+Switzerland,Historical,EV sales,Cars,FCEV,2017,,1
+Switzerland,Historical,EV sales,Cars,PHEV,2017,,3648
+Switzerland,Historical,EV sales,Cars,BEV,2018,,5138
+Switzerland,Historical,EV sales,Cars,FCEV,2018,,29
+Switzerland,Historical,EV sales,Cars,PHEV,2018,,4359
+Switzerland,Historical,EV sales,Cars,BEV,2019,,13190
+Switzerland,Historical,EV sales,Cars,FCEV,2019,,25
+Switzerland,Historical,EV sales,Cars,PHEV,2019,,4284
+Switzerland,Historical,EV sales,Cars,BEV,2020,,19385
+Switzerland,Historical,EV sales,Cars,FCEV,2020,,2
+Switzerland,Historical,EV sales,Cars,PHEV,2020,,14392
+United Kingdom,Historical,EV sales,Cars,BEV,2010,,255
+United Kingdom,Historical,EV sales,Cars,PHEV,2010,,21
+United Kingdom,Historical,EV sales,Cars,BEV,2011,,1211
+United Kingdom,Historical,EV sales,Cars,PHEV,2011,,7
+United Kingdom,Historical,EV sales,Cars,BEV,2012,,1705
+United Kingdom,Historical,EV sales,Cars,PHEV,2012,,988
+United Kingdom,Historical,EV sales,Cars,BEV,2013,,2679
+United Kingdom,Historical,EV sales,Cars,PHEV,2013,,1073
+United Kingdom,Historical,EV sales,Cars,BEV,2014,,6812
+United Kingdom,Historical,EV sales,Cars,PHEV,2014,,7931
+United Kingdom,Historical,EV sales,Cars,BEV,2015,,10095
+United Kingdom,Historical,EV sales,Cars,FCEV,2015,,4
+United Kingdom,Historical,EV sales,Cars,PHEV,2015,,19241
+United Kingdom,Historical,EV sales,Cars,BEV,2016,,10509
+United Kingdom,Historical,EV sales,Cars,FCEV,2016,,8
+United Kingdom,Historical,EV sales,Cars,PHEV,2016,,27403
+United Kingdom,Historical,EV sales,Cars,BEV,2017,,13550.599609375
+United Kingdom,Historical,EV sales,Cars,FCEV,2017,,35
+United Kingdom,Historical,EV sales,Cars,PHEV,2017,,33701
+United Kingdom,Historical,EV sales,Cars,BEV,2018,,15743.0595703125
+United Kingdom,Historical,EV sales,Cars,FCEV,2018,,36
+United Kingdom,Historical,EV sales,Cars,PHEV,2018,,34619
+United Kingdom,Historical,EV sales,Cars,BEV,2019,,38357
+United Kingdom,Historical,EV sales,Cars,FCEV,2019,,68
+United Kingdom,Historical,EV sales,Cars,PHEV,2019,,36630
+United Kingdom,Historical,EV sales,Cars,BEV,2020,,108329
+United Kingdom,Historical,EV sales,Cars,FCEV,2020,,89
+United Kingdom,Historical,EV sales,Cars,PHEV,2020,,67717
+USA,Historical,EV sales,Cars,BEV,2010,,1191
+USA,Historical,EV sales,Cars,BEV,2011,,9750
+USA,Historical,EV sales,Cars,PHEV,2011,,7980
+USA,Historical,EV sales,Cars,BEV,2012,,14650
+USA,Historical,EV sales,Cars,PHEV,2012,,38590
+USA,Historical,EV sales,Cars,BEV,2013,,47690
+USA,Historical,EV sales,Cars,PHEV,2013,,49010
+USA,Historical,EV sales,Cars,BEV,2014,,63420
+USA,Historical,EV sales,Cars,FCEV,2014,,55
+USA,Historical,EV sales,Cars,PHEV,2014,,55360
+USA,Historical,EV sales,Cars,BEV,2015,,71044
+USA,Historical,EV sales,Cars,FCEV,2015,,104
+USA,Historical,EV sales,Cars,PHEV,2015,,42825
+USA,Historical,EV sales,Cars,BEV,2016,,86731
+USA,Historical,EV sales,Cars,FCEV,2016,,1074
+USA,Historical,EV sales,Cars,PHEV,2016,,72885
+USA,Historical,EV sales,Cars,BEV,2017,,104487
+USA,Historical,EV sales,Cars,FCEV,2017,,2270
+USA,Historical,EV sales,Cars,PHEV,2017,,93862
+USA,Historical,EV sales,Cars,BEV,2018,,238823
+USA,Historical,EV sales,Cars,FCEV,2018,,2689
+USA,Historical,EV sales,Cars,PHEV,2018,,122492
+USA,Historical,EV sales,Cars,BEV,2019,,241912
+USA,Historical,EV sales,Cars,FCEV,2019,,2006
+USA,Historical,EV sales,Cars,PHEV,2019,,84732
+USA,Historical,EV sales,Cars,BEV,2020,,231088
+USA,Historical,EV sales,Cars,FCEV,2020,,938
+USA,Historical,EV sales,Cars,PHEV,2020,,64311
+World,Historical,EV sales,Cars,BEV,2010,,7876
+World,Historical,EV sales,Cars,FCEV,2010,,29
+World,Historical,EV sales,Cars,PHEV,2010,,384
+World,Historical,EV sales,Cars,BEV,2011,,39243
+World,Historical,EV sales,Cars,FCEV,2011,,38
+World,Historical,EV sales,Cars,PHEV,2011,,9050.16015625
+World,Historical,EV sales,Cars,BEV,2012,,57803.6015625
+World,Historical,EV sales,Cars,FCEV,2012,,30
+World,Historical,EV sales,Cars,PHEV,2012,,60508.3984375
+World,Historical,EV sales,Cars,BEV,2013,,112648.6015625
+World,Historical,EV sales,Cars,FCEV,2013,,31
+World,Historical,EV sales,Cars,PHEV,2013,,91577.3984375
+World,Historical,EV sales,Cars,BEV,2014,,195753.296875
+World,Historical,EV sales,Cars,FCEV,2014,,93.21099853515625
+World,Historical,EV sales,Cars,PHEV,2014,,133367.203125
+World,Historical,EV sales,Cars,BEV,2015,,324907
+World,Historical,EV sales,Cars,FCEV,2015,,683
+World,Historical,EV sales,Cars,PHEV,2015,,222567
+World,Historical,EV sales,Cars,BEV,2016,,465632.09375
+World,Historical,EV sales,Cars,FCEV,2016,,2289
+World,Historical,EV sales,Cars,PHEV,2016,,286459.1875
+World,Historical,EV sales,Cars,BEV,2017,,758053.1875
+World,Historical,EV sales,Cars,FCEV,2017,,3365
+World,Historical,EV sales,Cars,PHEV,2017,,416591.09375
+World,Historical,EV sales,Cars,BEV,2018,,1370922
+World,Historical,EV sales,Cars,FCEV,2018,,6003
+World,Historical,EV sales,Cars,PHEV,2018,,637557
+World,Historical,EV sales,Cars,BEV,2019,,1542867
+World,Historical,EV sales,Cars,FCEV,2019,,10281
+World,Historical,EV sales,Cars,PHEV,2019,,570724
+World,Historical,EV sales,Cars,BEV,2020,,2008024
+World,Historical,EV sales,Cars,FCEV,2020,,9601
+World,Historical,EV sales,Cars,PHEV,2020,,969034
